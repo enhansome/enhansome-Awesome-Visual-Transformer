@@ -19,7 +19,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7405
+            "stars": 7406
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-05-14T07:05:48Z",
             "owner": "JingyunLiang",
             "repo": "SwinIR",
-            "stars": 5571
+            "stars": 5572
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-03-15T13:20:37Z",
             "owner": "facebookresearch",
             "repo": "deit",
-            "stars": 4356
+            "stars": 4355
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3617
+            "stars": 3616
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2024-07-31T13:56:21Z",
             "owner": "IDEA-Research",
             "repo": "DINO",
-            "stars": 2828
+            "stars": 2830
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-04-21T16:42:35Z",
             "owner": "drprojects",
             "repo": "superpoint_transformer",
-            "stars": 1043
+            "stars": 1045
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2023-04-30T19:30:48Z",
             "owner": "PeizeSun",
             "repo": "TransTrack",
-            "stars": 671
+            "stars": 670
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2024-05-08T05:03:48Z",
             "owner": "researchmm",
             "repo": "AOT-GAN-for-Inpainting",
-            "stars": 532
+            "stars": 530
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-03-11T10:27:01Z",
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
-            "stars": 451
+            "stars": 450
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2025-03-15T12:48:07Z",
             "owner": "huawei-noah",
             "repo": "Efficient-AI-Backbones",
-            "stars": 4419
+            "stars": 4418
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15358
+            "stars": 15356
           }
         },
         {
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:24:58.452Z",
+    "last_updated": "2026-08-14T14:18:43.436Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
