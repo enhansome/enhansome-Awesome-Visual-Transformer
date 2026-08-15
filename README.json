@@ -33,7 +33,7 @@
             "last_commit": "2024-05-14T07:05:48Z",
             "owner": "JingyunLiang",
             "repo": "SwinIR",
-            "stars": 5572
+            "stars": 5573
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3616
+            "stars": 3618
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2025-03-15T12:48:07Z",
             "owner": "huawei-noah",
             "repo": "Efficient-AI-Backbones",
-            "stars": 4418
+            "stars": 4419
           }
         },
         {
@@ -1142,10 +1142,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T01:30:27Z",
+            "last_commit": "2026-08-14T16:17:34Z",
             "owner": "huawei-noah",
             "repo": "noah-research",
-            "stars": 977
+            "stars": 978
           }
         },
         {
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:18:43.436Z",
+    "last_updated": "2026-08-15T13:37:39.895Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
