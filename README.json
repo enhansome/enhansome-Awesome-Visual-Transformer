@@ -33,7 +33,7 @@
             "last_commit": "2024-05-14T07:05:48Z",
             "owner": "JingyunLiang",
             "repo": "SwinIR",
-            "stars": 5573
+            "stars": 5574
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3618
+            "stars": 3619
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2024-07-31T13:56:21Z",
             "owner": "IDEA-Research",
             "repo": "DINO",
-            "stars": 2830
+            "stars": 2829
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-05-09T08:44:36Z",
             "owner": "HuCaoFighting",
             "repo": "Swin-Unet",
-            "stars": 2411
+            "stars": 2413
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-04-21T16:42:35Z",
             "owner": "drprojects",
             "repo": "superpoint_transformer",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:37:39.895Z",
+    "last_updated": "2026-08-16T13:38:23.326Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
