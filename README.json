@@ -19,7 +19,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-05-14T07:05:48Z",
             "owner": "JingyunLiang",
             "repo": "SwinIR",
-            "stars": 5574
+            "stars": 5575
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3619
+            "stars": 3620
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-02-25T04:44:14Z",
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3229
+            "stars": 3231
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2024-07-31T13:56:21Z",
             "owner": "IDEA-Research",
             "repo": "DINO",
-            "stars": 2829
+            "stars": 2830
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-04-21T16:42:35Z",
             "owner": "drprojects",
             "repo": "superpoint_transformer",
-            "stars": 1046
+            "stars": 1047
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2024-05-08T05:03:48Z",
             "owner": "researchmm",
             "repo": "AOT-GAN-for-Inpainting",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -1142,10 +1142,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:17:34Z",
+            "last_commit": "2026-08-17T08:38:42Z",
             "owner": "huawei-noah",
             "repo": "noah-research",
-            "stars": 978
+            "stars": 995
           }
         },
         {
@@ -1260,7 +1260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:38:23.326Z",
+    "last_updated": "2026-08-17T13:47:09.969Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
