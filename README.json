@@ -32,7 +32,7 @@
                 "last_commit": "2024-05-14T07:05:48Z",
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5574
+                "stars": 5575
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3621
+                "stars": 3623
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2024-01-15T07:10:16Z",
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 809
+                "stars": 810
               }
             },
             {
@@ -557,7 +557,7 @@
                 "last_commit": "2023-11-01T06:41:31Z",
                 "owner": "DengPingFan",
                 "repo": "Polyp-PVT",
-                "stars": 264
+                "stars": 265
               }
             },
             {
@@ -1239,7 +1239,7 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 672
+                "stars": 675
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "last_commit": "2025-10-23T13:41:29Z",
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2620
+                "stars": 2621
               }
             },
             {
@@ -1696,7 +1696,7 @@
                 "last_commit": "2026-08-18T12:08:30Z",
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1000
+                "stars": 1001
               }
             },
             {
@@ -2251,7 +2251,7 @@
                 "last_commit": "2024-01-24T05:59:39Z",
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2015
+                "stars": 2016
               }
             },
             {
@@ -2311,7 +2311,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12673
+                "stars": 12672
               }
             },
             {
@@ -2526,7 +2526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:51:25.648Z",
+    "last_updated": "2026-08-20T13:53:00.110Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_id": 318087408,
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
