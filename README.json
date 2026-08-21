@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3623
+                "stars": 3624
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-02-25T04:44:14Z",
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3231
+                "stars": 3232
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-12-18T16:24:13Z",
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2335
+                "stars": 2334
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2022-03-11T15:41:52Z",
                 "owner": "facebookresearch",
                 "repo": "MaskFormer",
-                "stars": 1461
+                "stars": 1460
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-04-21T16:42:35Z",
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1048
+                "stars": 1046
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2024-01-15T07:10:16Z",
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 810
+                "stars": 809
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2021-05-13T13:43:51Z",
                 "owner": "SwinTransformer",
                 "repo": "Transformer-SSL",
-                "stars": 672
+                "stars": 673
               }
             },
             {
@@ -467,7 +467,7 @@
                 "last_commit": "2022-08-21T08:09:08Z",
                 "owner": "ZhangGongjie",
                 "repo": "Meta-DETR",
-                "stars": 434
+                "stars": 433
               }
             },
             {
@@ -1374,7 +1374,7 @@
                 "last_commit": "2024-05-17T23:31:51Z",
                 "owner": "diyiiyiii",
                 "repo": "StyTR-2",
-                "stars": 446
+                "stars": 445
               }
             },
             {
@@ -1419,7 +1419,7 @@
                 "last_commit": "2025-11-25T03:33:48Z",
                 "owner": "MengyangPu",
                 "repo": "EDTER",
-                "stars": 326
+                "stars": 324
               }
             },
             {
@@ -1681,7 +1681,7 @@
                 "last_commit": "2025-03-15T12:48:07Z",
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4419
+                "stars": 4418
               }
             },
             {
@@ -1711,7 +1711,7 @@
                 "last_commit": "2022-05-04T07:21:54Z",
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 902
+                "stars": 901
               }
             },
             {
@@ -1876,7 +1876,7 @@
                 "last_commit": "2024-04-21T19:30:30Z",
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 905
+                "stars": 904
               }
             },
             {
@@ -1891,7 +1891,7 @@
                 "last_commit": "2026-06-24T10:37:16Z",
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 853
+                "stars": 852
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "last_commit": "2023-05-22T16:53:07Z",
                 "owner": "Atten4Vis",
                 "repo": "ConditionalDETR",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -2026,7 +2026,7 @@
                 "last_commit": "2023-03-07T02:26:59Z",
                 "owner": "raywzy",
                 "repo": "ICT",
-                "stars": 330
+                "stars": 329
               }
             },
             {
@@ -2251,7 +2251,7 @@
                 "last_commit": "2024-01-24T05:59:39Z",
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2016
+                "stars": 2014
               }
             },
             {
@@ -2311,7 +2311,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12672
+                "stars": 12674
               }
             },
             {
@@ -2526,7 +2526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:53:00.110Z",
+    "last_updated": "2026-08-21T13:52:08.573Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_id": 318087408,
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
