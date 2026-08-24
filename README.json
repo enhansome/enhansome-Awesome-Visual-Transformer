@@ -242,7 +242,7 @@
                 "last_commit": "2025-03-21T08:08:03Z",
                 "owner": "ZhendongWang6",
                 "repo": "Uformer",
-                "stars": 943
+                "stars": 944
               }
             },
             {
@@ -437,7 +437,7 @@
                 "last_commit": "2024-03-11T10:27:01Z",
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
-                "stars": 450
+                "stars": 451
               }
             },
             {
@@ -2281,7 +2281,7 @@
                 "last_commit": "2025-10-19T17:12:20Z",
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1597
+                "stars": 1598
               }
             },
             {
@@ -2593,7 +2593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:51.727Z",
+    "last_updated": "2026-08-24T15:06:42.711Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_id": 318087408,
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",

@@ -41,7 +41,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 * **\[MaskFormer]** MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation \[[paper](http://arxiv.org/abs/2107.06278)] \[[code](https://github.com/facebookresearch/MaskFormer) ⚠️ Archived]
 * **\[Superpoint Transformer]** Efficient 3D Semantic Segmentation with Superpoint Transformer \[[paper](https://arxiv.org/abs/2306.08045)] \[[code](https://github.com/drprojects/superpoint_transformer) ⭐ 1,048 | 🐛 4 | 🌐 Python | 📅 2026-04-21]
 * **\[VOLO]** VOLO: Vision Outlooker for Visual Recognition \[[paper](https://arxiv.org/abs/2106.13112)] \[[code](https://github.com/sail-sg/volo) ⭐ 948 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2022-09-18]
-* **\[Uformer]** Uformer: A General U-Shaped Transformer for Image Restoration \[[paper](https://arxiv.org/abs/2106.03106)] \[[code](https://github.com/ZhendongWang6/Uformer) ⭐ 943 | 🐛 48 | 🌐 Python | 📅 2025-03-21]
+* **\[Uformer]** Uformer: A General U-Shaped Transformer for Image Restoration \[[paper](https://arxiv.org/abs/2106.03106)] \[[code](https://github.com/ZhendongWang6/Uformer) ⭐ 944 | 🐛 48 | 🌐 Python | 📅 2025-03-21]
 * **\[MOTR]** MOTR: End-to-End Multiple-Object Tracking with TRansformer \[[paper](https://arxiv.org/abs/2105.03247)] \[[code](https://github.com/megvii-model/MOTR) ⭐ 809 | 🐛 33 | 🌐 Python | 📅 2024-01-15]
 * **\[XCiT]** XCiT: Cross-Covariance Image Transformers \[[paper](https://arxiv.org/pdf/2106.09681.pdf)] \[[code](https://github.com/facebookresearch/xcit) ⚠️ Archived]
 * Self-Supervised Learning with Swin Transformers \[[paper](https://arxiv.org/abs/2105.04553)] \[[code](https://github.com/SwinTransformer/Transformer-SSL) ⭐ 673 | 🐛 17 | 🌐 Python | 📅 2021-05-13]
@@ -54,7 +54,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 * Contextual Transformer Networks for Visual Recognition \[[paper](https://arxiv.org/pdf/2107.12292.pdf)] \[[code](https://github.com/JDAI-CV/CoTNet) ⭐ 539 | 🐛 17 | 🌐 Python | 📅 2021-08-08]
 * **\[AOT-GAN]** Aggregated Contextual Transformations for High-Resolution Image Inpainting \[[paper](https://arxiv.org/abs/2104.01431)] \[[code](https://github.com/researchmm/AOT-GAN-for-Inpainting) ⭐ 531 | 🐛 18 | 🌐 Python | 📅 2024-05-08]
 * **\[MViTv2]** Improved Multiscale Vision Transformers for Classification and Detection \[[paper](https://arxiv.org/pdf/2112.01526.pdf)] \[[code](https://github.com/facebookresearch/mvit) ⚠️ Archived]
-* **\[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer \[[paper](https://arxiv.org/abs/2103.04430)] \[[code](https://github.com/Wenxuan-1119/TransBTS) ⭐ 450 | 🐛 37 | 🌐 Python | 📅 2024-03-11]
+* **\[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer \[[paper](https://arxiv.org/abs/2103.04430)] \[[code](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 | 🐛 37 | 🌐 Python | 📅 2024-03-11]
 * Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet \[[paper](https://arxiv.org/abs/2104.10858)] \[[code](https://github.com/zihangJiang/TokenLabeling) ⭐ 436 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-09-05]
 * **\[Meta-DETR]** Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning \[[paper](https://arxiv.org/abs/2103.11731) \[[code](https://github.com/ZhangGongjie/Meta-DETR) ⭐ 433 | 🐛 58 | 🌐 Python | 📅 2022-08-21]
 * **\[DaViT]** DaViT: Dual Attention Vision Transformers
@@ -482,7 +482,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 **CVPR**
 
 * Transformer Interpretability Beyond Attention Visualization \[[paper](https://arxiv.org/abs/2012.09838)] \[[code](https://github.com/hila-chefer/Transformer-Explainability) ⭐ 2,014 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-01-24]
-* **\[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving \[[paper](https://arxiv.org/abs/2104.09224)] \[[code](https://github.com/autonomousvision/transfuser) ⭐ 1,597 | 🐛 1 | 🌐 Python | 📅 2025-10-19]
+* **\[TransFuser]** Multi-Modal Fusion Transformer for End-to-End Autonomous Driving \[[paper](https://arxiv.org/abs/2104.09224)] \[[code](https://github.com/autonomousvision/transfuser) ⭐ 1,598 | 🐛 1 | 🌐 Python | 📅 2025-10-19]
 * **\[TransT]** Transformer Tracking  \[[paper](https://arxiv.org/abs/2103.15436)] \[[code](https://github.com/chenxin-dlut/TransT) ⭐ 634 | 🐛 59 | 🌐 Python | 📅 2023-07-01]
 * **\[CoFormer]** Collaborative Transformers for Grounded Situation Recognition
   \[[paper](https://arxiv.org/abs/2203.16518)] \[[code](https://github.com/jhcho99/CoFormer) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2023-04-09]
