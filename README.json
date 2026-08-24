@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7407
+                "stars": 7409
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3625
+                "stars": 3627
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-02-25T04:44:14Z",
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3232
+                "stars": 3233
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-07-31T13:56:21Z",
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2831
+                "stars": 2832
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2025-05-09T08:44:36Z",
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2414
+                "stars": 2415
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1783
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-04-21T16:42:35Z",
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -587,7 +587,7 @@
                 "last_commit": "2023-05-04T14:11:12Z",
                 "owner": "zhihou7",
                 "repo": "BatchFormer",
-                "stars": 253
+                "stars": 254
               }
             },
             {
@@ -722,7 +722,7 @@
                 "last_commit": "2022-10-15T20:01:31Z",
                 "owner": "xieenze",
                 "repo": "Trans2Seg",
-                "stars": 157
+                "stars": 156
               }
             },
             {
@@ -1239,7 +1239,7 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 675
+                "stars": 676
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16048
+                "stars": 16050
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "last_commit": "2025-10-23T13:41:29Z",
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2623
+                "stars": 2625
               }
             },
             {
@@ -1604,6 +1604,21 @@
             },
             {
               "node_type": "item",
+              "title": "Image-Adaptive Hint Generation via Vision Transformer for Outpainting [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398299987,
+                "language": "Python",
+                "last_commit": "2022-04-06T08:40:06Z",
+                "owner": "kdh4672",
+                "repo": "hgonet",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [paper",
               "description": "] [code]",
               "children": [],
@@ -1786,7 +1801,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16048
+                "stars": 16050
               }
             },
             {
@@ -1876,7 +1891,7 @@
                 "last_commit": "2024-04-21T19:30:30Z",
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 904
+                "stars": 905
               }
             },
             {
@@ -2301,6 +2316,21 @@
             },
             {
               "node_type": "item",
+              "title": "[GANsformer] Generative Adversarial Transformers [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343429224,
+                "language": "Python",
+                "last_commit": "2022-06-14T16:57:20Z",
+                "owner": "dorarad",
+                "repo": "gansformer",
+                "stars": 1344
+              }
+            },
+            {
+              "node_type": "item",
               "title": "[Vision Transformer] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [paper",
               "description": "] [code]",
               "children": [],
@@ -2311,7 +2341,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12678
+                "stars": 12679
               }
             },
             {
@@ -2326,7 +2356,7 @@
                 "last_commit": "2024-05-16T03:54:39Z",
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4015
+                "stars": 4014
               }
             },
             {
@@ -2493,6 +2523,21 @@
                 "repo": "YOGO",
                 "stars": 80
               }
+            },
+            {
+              "node_type": "item",
+              "title": "[LSTR] End-to-end Lane Shape Prediction with Transformers [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311198036,
+                "language": "Python",
+                "last_commit": "2021-12-27T07:23:53Z",
+                "owner": "liuruijin17",
+                "repo": "LSTR",
+                "stars": 662
+              }
             }
           ],
           "description": "NeurIPS\nICCV\nCVPR\nICML\nICRA\nICLR\nACM MM\nMICCAI\nBMVC\nISIE\nCORL\nIJCAI\nIROS\nWACV\nICDAR",
@@ -2520,13 +2565,35 @@
           "description": null,
           "node_type": "group",
           "title": "2020"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Awesome-Transformer-Attention",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406653146,
+                "language": null,
+                "last_commit": "2024-07-30T06:57:18Z",
+                "owner": "cmhungsteve",
+                "repo": "Awesome-Transformer-Attention",
+                "stars": 5049
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other resource"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:39:09.010Z",
+    "last_updated": "2026-08-24T13:57:51.727Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_id": 318087408,
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
