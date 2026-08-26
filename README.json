@@ -32,7 +32,7 @@
                 "last_commit": "2024-05-14T07:05:48Z",
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5579
+                "stars": 5580
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3627
+                "stars": 3629
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-07-31T13:56:21Z",
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2833
+                "stars": 2834
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -322,6 +322,21 @@
             },
             {
               "node_type": "item",
+              "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452918638,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-06-02T09:56:52Z",
+                "owner": "IDEA-Research",
+                "repo": "DAB-DETR",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
               "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
               "description": "] [code]",
               "children": [],
@@ -333,21 +348,6 @@
                 "owner": "zczcwh",
                 "repo": "PoseFormer",
                 "stars": 585
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 452918638,
-                "language": "Jupyter Notebook",
-                "last_commit": "2023-06-02T09:56:52Z",
-                "owner": "IDEA-Research",
-                "repo": "DAB-DETR",
-                "stars": 584
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16049
+                "stars": 16051
               }
             },
             {
@@ -1314,7 +1314,7 @@
                 "last_commit": "2024-07-23T18:15:40Z",
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8371
+                "stars": 8370
               }
             },
             {
@@ -1644,7 +1644,7 @@
                 "last_commit": "2023-06-02T09:56:52Z",
                 "owner": "IDEA-Research",
                 "repo": "DAB-DETR",
-                "stars": 584
+                "stars": 585
               }
             },
             {
@@ -1711,7 +1711,7 @@
                 "last_commit": "2026-08-18T12:08:30Z",
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1002
+                "stars": 1003
               }
             },
             {
@@ -1801,7 +1801,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16049
+                "stars": 16051
               }
             },
             {
@@ -2281,7 +2281,7 @@
                 "last_commit": "2025-10-19T17:12:20Z",
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1598
+                "stars": 1599
               }
             },
             {
@@ -2341,7 +2341,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12681
+                "stars": 12683
               }
             },
             {
@@ -2558,7 +2558,7 @@
                 "last_commit": "2024-03-12T15:58:25Z",
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15355
+                "stars": 15354
               }
             }
           ],
@@ -2593,7 +2593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:56:45.766Z",
+    "last_updated": "2026-08-26T13:59:36.500Z",
     "original_repository": "dk-liang/Awesome-Visual-Transformer",
     "original_repository_id": 318087408,
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
