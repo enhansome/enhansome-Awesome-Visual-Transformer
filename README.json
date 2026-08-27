@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 385275507,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:53:31Z",
+                "last_commit": "2026-08-27T21:35:59Z",
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3630
+                "stars": 3631
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2023-12-18T08:07:22Z",
                 "owner": "boxiangyun",
                 "repo": "SpecTr",
-                "stars": 58
+                "stars": 59
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16051
+                "stars": 16052
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "last_commit": "2025-10-23T13:41:29Z",
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2626
+                "stars": 2627
               }
             },
             {
@@ -1801,7 +1801,7 @@
                 "last_commit": "2024-07-24T17:09:57Z",
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16051
+                "stars": 16052
               }
             },
             {
@@ -2593,7 +2593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:34.310Z",
+    "last_updated": "2026-08-27T22:55:04.680Z",
     "original_repository_info": {
       "archived": false,
       "id": 318087408,
