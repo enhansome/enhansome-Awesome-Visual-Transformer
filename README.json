@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7410
+                "stars": 7411
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-02T15:50:33Z",
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3629
+                "stars": 3630
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1785
               }
             },
             {
@@ -962,7 +962,7 @@
                 "last_commit": "2024-07-16T09:32:09Z",
                 "owner": "bwittmann",
                 "repo": "transoar",
-                "stars": 71
+                "stars": 72
               }
             },
             {
@@ -1239,7 +1239,7 @@
                 "last_commit": "2023-08-03T11:41:02Z",
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 678
+                "stars": 679
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "last_commit": "2025-10-23T13:41:29Z",
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2625
+                "stars": 2626
               }
             },
             {
@@ -1711,7 +1711,7 @@
                 "last_commit": "2026-08-18T12:08:30Z",
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1003
+                "stars": 1004
               }
             },
             {
@@ -2371,7 +2371,7 @@
                 "last_commit": "2020-11-18T19:54:34Z",
                 "owner": "lucidrains",
                 "repo": "lambda-networks",
-                "stars": 1528
+                "stars": 1529
               }
             },
             {
@@ -2593,9 +2593,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:59:36.500Z",
-    "original_repository": "dk-liang/Awesome-Visual-Transformer",
-    "original_repository_id": 318087408,
+    "last_updated": "2026-08-27T11:25:34.310Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 318087408,
+      "language": null,
+      "last_commit": "2025-01-07T01:59:49Z",
+      "owner": "dk-liang",
+      "repo": "Awesome-Visual-Transformer",
+      "stars": 3592
+    },
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
     "enhanced_repository_description": null,
