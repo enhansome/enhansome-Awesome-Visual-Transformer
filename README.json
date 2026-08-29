@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411,
+                "stars": 7412,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4355,
+                "stars": 4354,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3631,
+                "stars": 3632,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2416,
+                "stars": 2417,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -900,7 +900,7 @@
                 "open_issues": 15,
                 "owner": "davide-coccomini",
                 "repo": "Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -2083,7 +2083,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-24T17:09:57Z",
-                "open_issues": 201,
+                "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
                 "stars": 16055,
@@ -2912,7 +2912,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-24T17:09:57Z",
-                "open_issues": 201,
+                "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
                 "stars": 16055,
@@ -3785,7 +3785,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12684,
+                "stars": 12685,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4016,
+                "stars": 4017,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:26.665Z",
+    "last_updated": "2026-08-29T17:04:08.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
