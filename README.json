@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                "homepage": null,
                 "id": 203465734,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T11:07:10Z",
+                "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411
+                "stars": 7411,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -28,12 +33,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SwinIR: Image Restoration Using Swin Transformer (official repository)",
+                "homepage": "https://arxiv.org/abs/2108.10257",
                 "id": 396770997,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-14T07:05:48Z",
+                "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5580
+                "stars": 5580,
+                "topics": [
+                  "compression-artifact-reduction",
+                  "deblocking",
+                  "decompression",
+                  "denoising",
+                  "image-deblocking",
+                  "image-denoising",
+                  "image-restoration",
+                  "image-sr",
+                  "image-super-resolution",
+                  "lightweight-image-super-resolution",
+                  "low-level-vision",
+                  "real-world-image-super-resolution",
+                  "restoration",
+                  "super-resolution",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -44,12 +71,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official DeiT repository",
+                "homepage": null,
                 "id": 323966500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-15T13:20:37Z",
+                "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4355
+                "stars": 4355,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -60,12 +92,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+                "homepage": null,
                 "id": 385275507,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:16:01Z",
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3821
+                "stars": 3821,
+                "topics": [
+                  "attention",
+                  "computer-vision",
+                  "deep-learning",
+                  "jax",
+                  "research",
+                  "transformers",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -76,12 +121,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of SegFormer",
+                "homepage": "https://arxiv.org/abs/2105.15203",
                 "id": 376096061,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-02T15:50:33Z",
+                "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3631
+                "stars": 3631,
+                "topics": [
+                  "ade20k",
+                  "cityscapes",
+                  "semantic-segmentation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -92,12 +147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.",
+                "homepage": null,
                 "id": 336978043,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-25T04:44:14Z",
+                "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3234
+                "stars": 3234,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -108,12 +168,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\"",
+                "homepage": null,
                 "id": 467139740,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-31T13:56:21Z",
+                "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2834
+                "stars": 2834,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -124,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCVW 2022] The codes for the work \"Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation\"",
+                "homepage": null,
                 "id": 363852342,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-09T08:44:36Z",
+                "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2416
+                "stars": 2416,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -140,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dense Prediction Transformers",
+                "homepage": null,
                 "id": 350409920,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-18T16:24:13Z",
+                "open_issues": 38,
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2334
+                "stars": 2334,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -156,12 +235,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+                "homepage": "https://arxiv.org/abs/2203.12602",
                 "id": 473059611,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-08T13:44:48Z",
+                "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1786
+                "stars": 1786,
+                "topics": [
+                  "action-recognition",
+                  "mae",
+                  "masked-autoencoder",
+                  "neurips-2022",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transformer",
+                  "video-analysis",
+                  "video-representation-learning",
+                  "video-transformer",
+                  "video-understanding",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -172,12 +269,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS‘2021] \"TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up\", Yifan Jiang, Shiyu Chang, Zhangyang Wang",
+                "homepage": null,
                 "id": 337811507,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-03T01:00:41Z",
+                "open_issues": 15,
                 "owner": "VITA-Group",
                 "repo": "TransGAN",
-                "stars": 1695
+                "stars": 1695,
+                "topics": [
+                  "gan",
+                  "pytorch",
+                  "transformer",
+                  "transformer-encoder",
+                  "transformer-models"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -188,12 +296,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Video Swin Transformers\".",
+                "homepage": "https://arxiv.org/abs/2106.13230",
                 "id": 380026780,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-08T07:48:46Z",
+                "open_issues": 72,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1665
+                "stars": 1665,
+                "topics": [
+                  "swin-transformer",
+                  "video-recognition"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -204,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Per-Pixel Classification is Not All You Need for Semantic Segmentation (NeurIPS 2021, spotlight)",
+                "homepage": null,
                 "id": 378185295,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-11T15:41:52Z",
+                "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "MaskFormer",
-                "stars": 1460
+                "stars": 1460,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -220,12 +341,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of Superpoint Transformer [ICCV'23], SuperCluster [3DV'24 Oral], and EZ-SP [ICRA'26]",
+                "homepage": null,
                 "id": 654209013,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T16:42:35Z",
+                "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1050
+                "stars": 1050,
+                "topics": [
+                  "3d",
+                  "3dv2024",
+                  "deep-learning",
+                  "efficient",
+                  "fast",
+                  "graph-clustering",
+                  "hierarchical",
+                  "iccv2023",
+                  "lightweight",
+                  "panoptic-segmentation",
+                  "partition",
+                  "partitioning",
+                  "point-cloud",
+                  "pytorch",
+                  "semantic-segmentation",
+                  "superpoint",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -236,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VOLO: Vision Outlooker for Visual Recognition",
+                "homepage": null,
                 "id": 380108476,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-18T08:51:22Z",
+                "open_issues": 29,
                 "owner": "sail-sg",
                 "repo": "volo",
-                "stars": 948
+                "stars": 948,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -252,12 +401,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Official implementation of the paper \"Uformer: A General U-Shaped Transformer for Image Restoration\".",
+                "homepage": null,
                 "id": 373423349,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-21T08:08:03Z",
+                "open_issues": 48,
                 "owner": "ZhendongWang6",
                 "repo": "Uformer",
-                "stars": 944
+                "stars": 944,
+                "topics": [
+                  "deep-learning",
+                  "image-deblurring",
+                  "image-demoireing",
+                  "image-denoising",
+                  "image-deraining",
+                  "image-restoration",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -268,12 +430,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] MOTR: End-to-End Multiple-Object Tracking with TRansformer",
+                "homepage": null,
                 "id": 352875074,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-15T07:10:16Z",
+                "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 809
+                "stars": 809,
+                "topics": [
+                  "end-to-end",
+                  "multi-object-tracking",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -284,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official code Cross-Covariance Image Transformer (XCiT)",
+                "homepage": null,
                 "id": 377743225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-28T15:55:09Z",
+                "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "xcit",
-                "stars": 681
+                "stars": 681,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -300,12 +477,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Self-Supervised Learning with Swin Transformers\".",
+                "homepage": "https://arxiv.org/abs/2105.04553",
                 "id": 364478160,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-13T13:43:51Z",
+                "open_issues": 17,
                 "owner": "SwinTransformer",
                 "repo": "Transformer-SSL",
-                "stars": 673
+                "stars": 673,
+                "topics": [
+                  "self-supervised-learning",
+                  "swin-transformer",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -316,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiple Object Tracking with Transformer",
+                "homepage": null,
                 "id": 325566491,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-30T19:30:48Z",
+                "open_issues": 23,
                 "owner": "PeizeSun",
                 "repo": "TransTrack",
-                "stars": 670
+                "stars": 670,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -332,12 +523,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two simple and effective designs of vision transformer, which is on par with the Swin transformer",
+                "homepage": null,
                 "id": 362483649,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-14T02:23:47Z",
+                "open_issues": 13,
                 "owner": "Meituan-AutoML",
                 "repo": "Twins",
-                "stars": 610
+                "stars": 610,
+                "topics": [
+                  "image-classification",
+                  "twins",
+                  "vision-transformer-architectures"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -348,12 +548,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] Official implementation of the paper \"DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR\"",
+                "homepage": null,
                 "id": 452918638,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-02T09:56:52Z",
+                "open_issues": 28,
                 "owner": "IDEA-Research",
                 "repo": "DAB-DETR",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "dab-detr",
+                  "detection",
+                  "detr",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -364,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
+                "homepage": null,
                 "id": 348718235,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-09T15:05:02Z",
+                "open_issues": 25,
                 "owner": "zczcwh",
                 "repo": "PoseFormer",
-                "stars": 585
+                "stars": 585,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -380,12 +595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2021 Spotlight] Official code for \"Focal Self-attention for Local-Global Interactions in Vision Transformers\"",
+                "homepage": null,
                 "id": 384661236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-27T05:21:56Z",
+                "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
-                "stars": 559
+                "stars": 559,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -396,12 +616,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[CVPR 2022] StyleSwin: Transformer-based GAN for High-resolution Image Generation",
+                "homepage": "https://arxiv.org/abs/2112.10762",
                 "id": 433282571,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-30T21:00:17Z",
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "StyleSwin",
-                "stars": 543
+                "stars": 543,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "gans",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "image-synthesis",
+                  "pytorch",
+                  "styleswin",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -412,12 +648,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Contextual Transformer Networks for Visual Recognition\".",
+                "homepage": "https://arxiv.org/pdf/2107.12292.pdf",
                 "id": 364822245,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-08T11:17:46Z",
+                "open_issues": 17,
                 "owner": "JDAI-CV",
                 "repo": "CoTNet",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "contextual-transformer",
+                  "cotnet",
+                  "image-classification",
+                  "imagenet",
+                  "instance-segmentation",
+                  "mask-rcnn",
+                  "mscoco",
+                  "object-detection",
+                  "semantic-segmentation",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -428,12 +680,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TVCG'2023] AOT-GAN for High-Resolution Image Inpainting (codebase for image inpainting)",
+                "homepage": "https://arxiv.org/abs/2104.01431",
                 "id": 352255046,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-08T05:03:48Z",
+                "open_issues": 18,
                 "owner": "researchmm",
                 "repo": "AOT-GAN-for-Inpainting",
-                "stars": 531
+                "stars": 531,
+                "topics": [
+                  "codebase",
+                  "high-resolution",
+                  "image-inpainting",
+                  "multi-scale"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -444,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code Release for MViTv2 on Image Recognition.",
+                "homepage": null,
                 "id": 440646894,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-26T10:49:15Z",
+                "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "mvit",
-                "stars": 456
+                "stars": 456,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -460,12 +727,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo provides the official code for : 1) TransBTS: Multimodal Brain Tumor Segmentation Using Transformer (https://arxiv.org/abs/2103.04430) , accepted by MICCAI2021.  2) TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images(https://arxiv.org/abs/2201.12785).",
+                "homepage": null,
                 "id": 344778476,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-11T10:27:01Z",
+                "open_issues": 37,
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "medical-image-segmentation",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -476,12 +752,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of \"All Tokens Matter: Token Labeling for Training Better Vision Transformers\"",
+                "homepage": null,
                 "id": 359763441,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-05T07:44:23Z",
+                "open_issues": 7,
                 "owner": "zihangJiang",
                 "repo": "TokenLabeling",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "imagenet",
+                  "lv-vit",
+                  "pytorch",
+                  "segmentation",
+                  "transformer",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -492,12 +780,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[T-PAMI  2022]  Meta-DETR for Few-Shot Object Detection: Official PyTorch Implementation",
+                "homepage": null,
                 "id": 350280075,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-21T08:09:08Z",
+                "open_issues": 58,
                 "owner": "ZhangGongjie",
                 "repo": "Meta-DETR",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "computer-vision",
+                  "few-shot-object-detection",
+                  "meta-learning",
+                  "object-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -508,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022]Code for paper \"DaViT: Dual Attention Vision Transformer\"",
+                "homepage": null,
                 "id": 477899290,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-13T09:59:10Z",
+                "open_issues": 17,
                 "owner": "dingmyu",
                 "repo": "davit",
-                "stars": 377
+                "stars": 377,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -524,12 +828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation of the Anchor DETR.",
+                "homepage": null,
                 "id": 406282444,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-29T06:39:17Z",
+                "open_issues": 0,
                 "owner": "megvii-research",
                 "repo": "AnchorDETR",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -540,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-supervised vIsion Transformer (SiT)",
+                "homepage": null,
                 "id": 355077363,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-24T19:01:41Z",
+                "open_issues": 7,
                 "owner": "Sara-Ahmed",
                 "repo": "SiT",
-                "stars": 336
+                "stars": 336,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -556,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"ResT: An Efficient Transformer for Visual Recognition\".",
+                "homepage": null,
                 "id": 369537668,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-28T02:38:39Z",
+                "open_issues": 12,
                 "owner": "wofmanaf",
                 "repo": "ResT",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -572,12 +891,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Video Deepfake Detection model from \"Combining EfficientNet and Vision Transformers for Video Deepfake Detection\" presented at ICIAP 2021.",
+                "homepage": "https://dl.acm.org/doi/abs/10.1007/978-3-031-06433-3_19",
                 "id": 390382551,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-12-07T10:54:29Z",
+                "open_issues": 15,
                 "owner": "davide-coccomini",
                 "repo": "Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deepfake-detection",
+                  "deepfake-detection-challenge",
+                  "deepfake-videos",
+                  "deepfakes",
+                  "deepfakes-classification",
+                  "dfdc",
+                  "efficientnet",
+                  "faceforensics",
+                  "pytorch",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -588,12 +925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, AIR 2023.",
+                "homepage": null,
                 "id": 389960740,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-01T06:41:31Z",
+                "open_issues": 7,
                 "owner": "DengPingFan",
                 "repo": "Polyp-PVT",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -604,12 +946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Group-Free 3D Object Detection via Transformers",
+                "homepage": null,
                 "id": 353704431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-02T06:17:45Z",
+                "open_issues": 16,
                 "owner": "zeliu98",
                 "repo": "Group-Free-3D",
-                "stars": 256
+                "stars": 256,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -620,12 +967,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR2022, BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning, https://arxiv.org/abs/2203.01522",
+                "homepage": null,
                 "id": 465127638,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-04T14:11:12Z",
+                "open_issues": 13,
                 "owner": "zhihou7",
                 "repo": "BatchFormer",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "contrastive-learning",
+                  "cvpr2022",
+                  "domain-adaptation",
+                  "domain-generalization",
+                  "few-shot-learning",
+                  "long-tailed-recognition",
+                  "representation-learning",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -636,12 +997,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository is the code for the paper \"End-to-End Video Object Detection with Spatial-TemporalTransformers\" ",
+                "homepage": null,
                 "id": 369440435,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-12T11:01:46Z",
+                "open_issues": 30,
                 "owner": "SJTU-LuHe",
                 "repo": "TransVOD",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -652,12 +1018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2021 Oral) CoaT: Co-Scale Conv-Attentional Image Transformers",
+                "homepage": null,
                 "id": 351263278,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-03T22:13:14Z",
+                "open_issues": 3,
                 "owner": "mlpc-ucsd",
                 "repo": "CoaT",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -668,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation of CvT: Introducing Convolutions to Vision Transformers.",
+                "homepage": null,
                 "id": 371144019,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-04T22:47:26Z",
+                "open_issues": 0,
                 "owner": "leoxiaobin",
                 "repo": "CvT",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -684,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ISTR: End-to-End Instance Segmentation with Transformers (https://arxiv.org/abs/2105.00637)",
+                "homepage": null,
                 "id": 363554818,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-18T14:10:23Z",
+                "open_issues": 22,
                 "owner": "hujiecpp",
                 "repo": "ISTR",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -700,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 340650943,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-14T02:15:00Z",
+                "open_issues": 4,
                 "owner": "Meituan-AutoML",
                 "repo": "CPVT",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -716,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Styleformer - Official Pytorch Implementation",
+                "homepage": null,
                 "id": 376451033,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-28T10:45:22Z",
+                "open_issues": 2,
                 "owner": "Jeeseung-Park",
                 "repo": "Styleformer",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -732,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] Official PyTorch Implementation of \"Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers\"",
+                "homepage": "https://fastmetro.github.io/",
                 "id": 515150072,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-21T09:47:44Z",
+                "open_issues": 1,
                 "owner": "kaist-ami",
                 "repo": "FastMETRO",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -748,12 +1144,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIP 2022] End-to-end Temporal Action Detection with Transformer",
+                "homepage": null,
                 "id": 364815887,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-19T08:54:21Z",
+                "open_issues": 9,
                 "owner": "xlliu7",
                 "repo": "TadTR",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "action-recognition",
+                  "pytorch",
+                  "temporal-action-detection",
+                  "temporal-action-localization",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -764,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 331539900,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-15T20:01:31Z",
+                "open_issues": 17,
                 "owner": "xieenze",
                 "repo": "Trans2Seg",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -780,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The codes and models in 'Gaze Estimation using Transformer, ICPR2022'.",
+                "homepage": null,
                 "id": 371853989,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-30T14:39:30Z",
+                "open_issues": 17,
                 "owner": "yihuacheng",
                 "repo": "GazeTR",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -796,12 +1213,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Associating Objects with Transformers for Video Object Segmentation",
+                "homepage": null,
                 "id": 373738033,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-03-21T07:55:28Z",
+                "open_issues": 1,
                 "owner": "z-x-yang",
                 "repo": "AOT",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "computer-vision",
+                  "video-object-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -812,12 +1237,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2021) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search",
+                "homepage": null,
                 "id": 350421846,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-06T10:59:48Z",
+                "open_issues": 4,
                 "owner": "changlin31",
                 "repo": "BossNAS",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "automl",
+                  "hybrid-neural-network",
+                  "nas",
+                  "neural-architecture-search",
+                  "self-supervised-learning",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -828,12 +1265,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TRIQ implementation",
+                "homepage": null,
                 "id": 325620907,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-19T20:25:46Z",
+                "open_issues": 0,
                 "owner": "junyongyou",
                 "repo": "triq",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "image-quality-assessment"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -844,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 356699006,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-17T11:33:32Z",
+                "open_issues": 2,
                 "owner": "ofsoundof",
                 "repo": "LocalViT",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -860,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SCIS 22] TransCrowd: Weakly-Supervised Crowd Counting with Transformers ",
+                "homepage": null,
                 "id": 359291733,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-15T09:33:11Z",
+                "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "TransCrowd",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -876,12 +1330,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code base for M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers",
+                "homepage": null,
                 "id": 362658544,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-26T16:17:28Z",
+                "open_issues": 1,
                 "owner": "rayguan97",
                 "repo": "M3DETR",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "3d-object-detection",
+                  "deep-learning",
+                  "kitti-dataset",
+                  "object-detection",
+                  "point-cloud",
+                  "transformer",
+                  "waymo-open-dataset"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -892,12 +1359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision Transformers with Hierarchical Attention",
+                "homepage": null,
                 "id": 375598622,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-11T15:28:29Z",
+                "open_issues": 5,
                 "owner": "yun-liu",
                 "repo": "HAT-Net",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -908,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 379888915,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-27T05:51:26Z",
+                "open_issues": 4,
                 "owner": "mulinmeng",
                 "repo": "Shuffle-Transformer",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -924,12 +1401,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the code of \"ConTNet: Why not use convolution and transformer at the same time?\"",
+                "homepage": "https://arxiv.org/abs/2104.13497",
                 "id": 354468574,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-25T06:15:53Z",
+                "open_issues": 8,
                 "owner": "yan-hao-tian",
                 "repo": "ConTNet",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "convolution",
+                  "downstream-tasks",
+                  "imagenet",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -940,12 +1427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation of \"Light Field Image Super-Resolution with Transformers\"",
+                "homepage": null,
                 "id": 396654784,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-23T04:51:37Z",
+                "open_issues": 4,
                 "owner": "ZhengyuLiang24",
                 "repo": "LFT",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -956,12 +1448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 405584580,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-29T15:40:29Z",
+                "open_issues": 2,
                 "owner": "OPEN-AIR-SUN",
                 "repo": "PQ-Transformer",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -972,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TrTr: Visual Tracking with Transformer",
+                "homepage": null,
                 "id": 358863441,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-19T03:04:09Z",
+                "open_issues": 13,
                 "owner": "tongtybj",
                 "repo": "TrTr",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -988,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens (CVPR 2022)",
+                "homepage": null,
                 "id": 372373629,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-20T12:54:31Z",
+                "open_issues": 3,
                 "owner": "hustvl",
                 "repo": "MSG-Transformer",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1004,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 326477475,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-12-08T12:08:28Z",
+                "open_issues": 7,
                 "owner": "ChengyueGongR",
                 "repo": "PatchVisionTransformer",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1020,12 +1532,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3D medical Detection Transformer library. Papers accepted @ MIDL22 & MELBA23/02.",
+                "homepage": "https://www.melba-journal.org/papers/2023:003.html",
                 "id": 416794414,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-16T09:32:09Z",
+                "open_issues": 0,
                 "owner": "bwittmann",
                 "repo": "transoar",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "3d-detection",
+                  "deep-learning",
+                  "detection-transformer",
+                  "medical-image-processing",
+                  "pytorch",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1036,12 +1561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official pytorch implement for “Transformer-Based Source-Free Domain Adaptation”",
+                "homepage": null,
                 "id": 370942676,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-22T09:07:13Z",
+                "open_issues": 0,
                 "owner": "ygjwd12345",
                 "repo": "TransDA",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1052,12 +1582,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of our ECCV 2022 paper \"Sliced Recursive Transformer\"",
+                "homepage": null,
                 "id": 426283733,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-06T15:03:54Z",
+                "open_issues": 0,
                 "owner": "szq0214",
                 "repo": "SReT",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "efficient-neural-networks",
+                  "efficient-transformers",
+                  "transformer-architecture",
+                  "vision-transformer",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1068,12 +1609,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+                "homepage": null,
                 "id": 470390219,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-10T16:01:52Z",
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "RelViT",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "hico-det",
+                  "iclr2022",
+                  "pytorch",
+                  "visual-reasoning",
+                  "vqa"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1084,12 +1636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 344761772,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-18T08:07:22Z",
+                "open_issues": 4,
                 "owner": "boxiangyun",
                 "repo": "SpecTr",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1100,12 +1657,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22] Official PyTorch Implementation of \"Collaborative Transformers for Grounded Situation Recognition\"",
+                "homepage": "https://coformer.github.io/",
                 "id": 475897623,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-09T08:53:40Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "CoFormer",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "tranformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1116,12 +1687,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoT: Delving Deeper into Classification Head for Transformer",
+                "homepage": "https://peihuali.org/SoT/",
                 "id": 359854953,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-24T08:42:16Z",
+                "open_issues": 3,
                 "owner": "jiangtaoxie",
                 "repo": "SoT",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "deep-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1132,12 +1711,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI'22] Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection. ",
+                "homepage": null,
                 "id": 476123226,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-12T22:26:57Z",
+                "open_issues": 4,
                 "owner": "tianyu0207",
                 "repo": "weakly-polyp",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "anomaly-detection",
+                  "dataset",
+                  "deep-learning",
+                  "polyp"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1148,12 +1737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 414644762,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-09T02:38:07Z",
+                "open_issues": 5,
                 "owner": "lelexx",
                 "repo": "MTF-Transformer",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1164,12 +1758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and models for the paper Glance-and-Gaze Vision Transformer",
+                "homepage": null,
                 "id": 374452348,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-07T01:05:01Z",
+                "open_issues": 1,
                 "owner": "yucornetto",
                 "repo": "GG-Transformer",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1180,12 +1779,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BMVC'21] Official PyTorch Implementation of \"Grounded Situation Recognition with Transformers\"",
+                "homepage": "https://gsrtr.github.io/",
                 "id": 429803705,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-30T07:39:56Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "GSRTR",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bmvc2021",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1196,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 374720769,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-19T20:21:40Z",
+                "open_issues": 1,
                 "owner": "razvancaramalau",
                 "repo": "Visual-Transformer-for-Task-aware-Active-Learning",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1212,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524551515,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T18:50:16Z",
+                "open_issues": 3,
                 "owner": "HenryJunW",
                 "repo": "TAG",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1228,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 372460781,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-31T10:01:22Z",
+                "open_issues": 2,
                 "owner": "H-tfx",
                 "repo": "SDNet",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1244,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformer-based few-shot semantic segmentation",
+                "homepage": null,
                 "id": 392700720,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-04T13:34:13Z",
+                "open_issues": 1,
                 "owner": "GuoleiSun",
                 "repo": "TRFS",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1260,12 +1891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for 'Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder'",
+                "homepage": null,
                 "id": 476130438,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-04-24T05:20:26Z",
+                "open_issues": 3,
                 "owner": "tianyu0207",
                 "repo": "MemMC-MAE",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             }
@@ -1283,12 +1919,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1299,12 +1948,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+                "homepage": null,
                 "id": 514085646,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-17T06:49:09Z",
+                "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 951
+                "stars": 951,
+                "topics": [
+                  "multi-object-tracking-segmentation",
+                  "multiple-object-tracking",
+                  "object-tracking",
+                  "single-object-tracking",
+                  "video-object-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1315,12 +1975,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework",
+                "homepage": null,
                 "id": 472649963,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-03T11:41:02Z",
+                "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 680
+                "stars": 680,
+                "topics": [
+                  "tracking",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1331,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] Official PyTorch Implementation of \"Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers\"",
+                "homepage": "https://fastmetro.github.io/",
                 "id": 515150072,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-21T09:47:44Z",
+                "open_issues": 1,
                 "owner": "kaist-ami",
                 "repo": "FastMETRO",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1347,12 +2020,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.",
+                "homepage": null,
                 "id": 514109201,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-21T01:56:48Z",
+                "open_issues": 15,
                 "owner": "JIA-Lab-research",
                 "repo": "ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "mot",
+                  "multiple-object-tracking",
+                  "p3aformer",
+                  "tracking",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1363,12 +2047,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] The official PyTorch implementation of our ECCV 2022 paper: \"AiATrack: Attention in Attention for Transformer Visual Tracking\".",
+                "homepage": null,
                 "id": 514461158,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-30T03:15:09Z",
+                "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "attention-mechanism",
+                  "eccv2022",
+                  "object-tracking",
+                  "pytorch",
+                  "single-object-tracking",
+                  "tracking",
+                  "vision-transformer",
+                  "visual-tracking"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1379,12 +2077,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+                "homepage": "https://arxiv.org/abs/2103.14030",
                 "id": 351432397,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-24T17:09:57Z",
+                "open_issues": 201,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16055
+                "stars": 16055,
+                "topics": [
+                  "ade20k",
+                  "image-classification",
+                  "imagenet",
+                  "mask-rcnn",
+                  "mscoco",
+                  "object-detection",
+                  "semantic-segmentation",
+                  "swin-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1395,12 +2107,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+                "homepage": null,
                 "id": 435653386,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T18:15:40Z",
+                "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8370
+                "stars": 8370,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1411,12 +2128,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring. ",
+                "homepage": null,
                 "id": 418793252,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-23T13:41:29Z",
+                "open_issues": 55,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2628
+                "stars": 2628,
+                "topics": [
+                  "cvpr2022",
+                  "defocus-deblurring",
+                  "efficient-transformers",
+                  "high-resolution",
+                  "image-deblurring",
+                  "image-deraining",
+                  "image-restoration",
+                  "low-level-vision",
+                  "motion-deblurring",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1427,12 +2161,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1443,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped, CVPR 2022",
+                "homepage": null,
                 "id": 382210636,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-01T17:34:21Z",
+                "open_issues": 32,
                 "owner": "microsoft",
                 "repo": "CSWin-Transformer",
-                "stars": 584
+                "stars": 584,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1459,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyTr2 : Image Style Transfer with Transformers",
+                "homepage": null,
                 "id": 379816374,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-17T23:31:51Z",
+                "open_issues": 22,
                 "owner": "diyiiyiii",
                 "repo": "StyTR-2",
-                "stars": 445
+                "stars": 445,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1475,12 +2232,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation, CVPR2022",
+                "homepage": null,
                 "id": 473239183,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-27T04:24:50Z",
+                "open_issues": 26,
                 "owner": "hustvl",
                 "repo": "TopFormer",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "mobile-semantic-segmentation",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1491,12 +2256,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] MPViT:Multi-Path Vision Transformer for Dense Prediction",
+                "homepage": "https://arxiv.org/abs/2112.11010",
                 "id": 440364983,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-02T02:55:06Z",
+                "open_issues": 14,
                 "owner": "youngwanLEE",
                 "repo": "MPViT",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "detectron2",
+                  "mmsegmentation",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1507,12 +2281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EDTER: Edge Detection with Transformer, in CVPR 2022",
+                "homepage": null,
                 "id": 466465770,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2025-11-25T03:33:48Z",
+                "open_issues": 28,
                 "owner": "MengyangPu",
                 "repo": "EDTER",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1523,12 +2302,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation",
+                "homepage": null,
                 "id": 466421857,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-24T09:14:25Z",
+                "open_issues": 11,
                 "owner": "ZhangGongjie",
                 "repo": "SAM-DETR",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "computer-vision",
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "detection",
+                  "detr",
+                  "machine-learning",
+                  "object-detection",
+                  "pytorch",
+                  "transformer",
+                  "vision",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1539,12 +2336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 429349895,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-17T13:43:16Z",
+                "open_issues": 23,
                 "owner": "OliverRensu",
                 "repo": "Shunted-Transformer",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1555,12 +2357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds (CVPR 2022)",
+                "homepage": null,
                 "id": 472596651,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-22T10:18:17Z",
+                "open_issues": 13,
                 "owner": "skyhehe123",
                 "repo": "VoxSeT",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1571,12 +2378,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of BEVT (CVPR 2022) https://arxiv.org/abs/2112.01529",
+                "homepage": null,
                 "id": 465185914,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-19T06:38:26Z",
+                "open_issues": 3,
                 "owner": "xyzforever",
                 "repo": "BEVT",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "action-recognition",
+                  "bert",
+                  "deep-learning",
+                  "foundation-models",
+                  "masked-autoencoder",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "video-representation-learning",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1587,12 +2409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] This repository includes the official project for the paper: TransMix: Attend to Mix for Vision Transformers.",
+                "homepage": null,
                 "id": 428958539,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-06T16:28:15Z",
+                "open_issues": 8,
                 "owner": "Beckschen",
                 "repo": "TransMix",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1603,12 +2430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lite Vision Transformer (CVPR 2022)",
+                "homepage": null,
                 "id": 465136002,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-21T11:43:40Z",
+                "open_issues": 5,
                 "owner": "Chenglin-Yang",
                 "repo": "LVT",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1619,12 +2451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of our paper: Towards Robust Vision Transformer (CVPR2022)",
+                "homepage": "https://arxiv.org/abs/2105.07926",
                 "id": 368082560,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-16T10:23:43Z",
+                "open_issues": 4,
                 "owner": "vtddggg",
                 "repo": "Robust-Vision-Transformer",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1635,12 +2472,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22] HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening",
+                "homepage": "https://www.wgcban.com/research#h.ar24vwqlm021",
                 "id": 431189304,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-19T13:52:29Z",
+                "open_issues": 10,
                 "owner": "wgcban",
                 "repo": "HyperTransformer",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "attention-mechanism",
+                  "deep-learning",
+                  "hyperspectral-imaging",
+                  "image-fusion",
+                  "multispectral-images",
+                  "pansharpening",
+                  "super-resolution",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1651,12 +2502,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Official Pytorch Implementation for \"Spatio-temporal Relation Modeling for Few-shot Action Recognition\". SOTA Results for Few-shot Action Recognition",
+                "homepage": "https://anirudh257.github.io/strm/",
                 "id": 476783347,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-30T19:36:02Z",
+                "open_issues": 3,
                 "owner": "Anirudh257",
                 "repo": "strm",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "action-recognition",
+                  "cvpr",
+                  "cvpr2022",
+                  "few-shot",
+                  "few-shot-learning",
+                  "few-shot-recognition",
+                  "spatio-temporal"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1667,12 +2531,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22] Official PyTorch Implementation of \"Collaborative Transformers for Grounded Situation Recognition\"",
+                "homepage": "https://coformer.github.io/",
                 "id": 475897623,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-09T08:53:40Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "CoFormer",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "tranformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1683,12 +2561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 469307633,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-14T14:15:36Z",
+                "open_issues": 2,
                 "owner": "pzhren",
                 "repo": "DW-ViT",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1699,12 +2582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Code for CVPR 2022 paper \"NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition\"",
+                "homepage": null,
                 "id": 468641107,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-14T10:09:51Z",
+                "open_issues": 2,
                 "owner": "TencentYoutuResearch",
                 "repo": "VisualRecognition-NomMer",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1715,12 +2603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398299987,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-06T08:40:06Z",
+                "open_issues": 0,
                 "owner": "kdh4672",
                 "repo": "hgonet",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1731,12 +2624,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2022] official implementation of UniFormer",
+                "homepage": null,
                 "id": 447136192,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-29T17:02:16Z",
+                "open_issues": 15,
                 "owner": "Sense-X",
                 "repo": "UniFormer",
-                "stars": 908
+                "stars": 908,
+                "topics": [
+                  "image-classification",
+                  "object-detection",
+                  "pose-estimation",
+                  "semantic-segmentation",
+                  "video-classification"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1747,12 +2651,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] Official implementation of the paper \"DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR\"",
+                "homepage": null,
                 "id": 452918638,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-02T09:56:52Z",
+                "open_issues": 28,
                 "owner": "IDEA-Research",
                 "repo": "DAB-DETR",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "dab-detr",
+                  "detection",
+                  "detr",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1763,12 +2677,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code for the paper: https://openreview.net/forum?id=_PHymLIxuI",
+                "homepage": null,
                 "id": 389956496,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-14T03:20:05Z",
+                "open_issues": 11,
                 "owner": "cheerss",
                 "repo": "CrossFormer",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "classification",
+                  "deep-learning",
+                  "instance-segmentation",
+                  "object-detection",
+                  "pytorch",
+                  "semantic-segmentation",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1779,12 +2706,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+                "homepage": null,
                 "id": 470390219,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-10T16:01:52Z",
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "RelViT",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "hico-det",
+                  "iclr2022",
+                  "pytorch",
+                  "visual-reasoning",
+                  "vqa"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             }
@@ -1802,12 +2740,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
+                "homepage": null,
                 "id": 222110214,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-15T12:48:07Z",
+                "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4418
+                "stars": 4418,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "efficient-inference",
+                  "ghostnet",
+                  "imagenet",
+                  "model-compression",
+                  "pretrained-models",
+                  "pytorch",
+                  "tensorflow",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1818,12 +2772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Noah Research",
+                "homepage": null,
                 "id": 272853727,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-18T12:08:30Z",
+                "open_issues": 92,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1004
+                "stars": 1004,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1834,12 +2793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2021] You Only Look at One Sequence",
+                "homepage": "https://arxiv.org/abs/2106.00666",
                 "id": 372138428,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-05-04T07:21:54Z",
+                "open_issues": 15,
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 901
+                "stars": 901,
+                "topics": [
+                  "computer-vision",
+                  "object-detection",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1850,12 +2819,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2021] Moment-DETR code and QVHighlights dataset",
+                "homepage": "https://arxiv.org/abs/2107.09609",
                 "id": 387856300,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-09T02:52:41Z",
+                "open_issues": 45,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "pytorch",
+                  "video-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1866,12 +2843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code Release for Container : Context Aggregation Network",
+                "homepage": null,
                 "id": 374832918,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-17T05:16:47Z",
+                "open_issues": 0,
                 "owner": "gaopengcuhk",
                 "repo": "Container",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1882,12 +2864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code repo for \"ProTo: program-guided Transformers for Program-guided Tasks",
+                "homepage": null,
                 "id": 420298522,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-15T01:24:41Z",
+                "open_issues": 0,
                 "owner": "sjtuytc",
                 "repo": "Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1898,12 +2885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dual Stream Network",
+                "homepage": null,
                 "id": 411441690,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-28T21:20:11Z",
+                "open_issues": 0,
                 "owner": "gaopengcuhk",
                 "repo": "DSNet",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1914,12 +2906,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+                "homepage": "https://arxiv.org/abs/2103.14030",
                 "id": 351432397,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-24T17:09:57Z",
+                "open_issues": 201,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16055
+                "stars": 16055,
+                "topics": [
+                  "ade20k",
+                  "image-classification",
+                  "imagenet",
+                  "mask-rcnn",
+                  "mscoco",
+                  "object-detection",
+                  "semantic-segmentation",
+                  "swin-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1930,12 +2936,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of PVT series",
+                "homepage": null,
                 "id": 341748701,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-27T08:47:14Z",
+                "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1900
+                "stars": 1900,
+                "topics": [
+                  "backbone",
+                  "detection",
+                  "pvt",
+                  "pvtv2",
+                  "segmentation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1946,12 +2964,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1962,12 +2993,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of our NAS and Vision Transformer work.",
+                "homepage": null,
                 "id": 303342700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:29:15Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1839
+                "stars": 1839,
+                "topics": [
+                  "automl",
+                  "efficiency",
+                  "knowledge-distillation",
+                  "nas",
+                  "rpe",
+                  "vision-transformer",
+                  "vit-compression"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1978,12 +3022,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+                "homepage": null,
                 "id": 332114633,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-27T19:00:24Z",
+                "open_issues": 23,
                 "owner": "yitu-opensource",
                 "repo": "T2T-ViT",
-                "stars": 1191
+                "stars": 1191,
+                "topics": [
+                  "t2t-transformer",
+                  "vision-transformer",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1994,12 +3047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV-2021] TransReID: Transformer-based Object Re-Identification",
+                "homepage": null,
                 "id": 351802749,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-12T05:28:31Z",
+                "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1048
+                "stars": 1048,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2010,12 +3068,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2021] Official PyTorch implementation of Segmenter: Transformer for Semantic Segmentation",
+                "homepage": null,
                 "id": 366315313,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-21T19:30:30Z",
+                "open_issues": 21,
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 905
+                "stars": 905,
+                "topics": [
+                  "segmentation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2026,12 +3092,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021 Oral] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers",
+                "homepage": null,
                 "id": 395189350,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-24T10:37:16Z",
+                "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 853
+                "stars": 853,
+                "topics": [
+                  "3dvision",
+                  "computer-vision",
+                  "deep-learning",
+                  "iccv2021",
+                  "pointcloud-completion",
+                  "vision-transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2042,12 +3120,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking",
+                "homepage": null,
                 "id": 351337211,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-13T07:02:29Z",
+                "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 716
+                "stars": 716,
+                "topics": [
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2058,12 +3143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code & Models for 3DETR - an End-to-end transformer model for 3D object detection",
+                "homepage": null,
                 "id": 384154772,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-10T12:02:10Z",
+                "open_issues": 25,
                 "owner": "facebookresearch",
                 "repo": "3detr",
-                "stars": 714
+                "stars": 714,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2074,12 +3164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers. (ICCV 2021 Oral)",
+                "homepage": null,
                 "id": 310403125,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-17T20:00:09Z",
+                "open_issues": 43,
                 "owner": "mli0603",
                 "repo": "stereo-transformer",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "pytorch",
+                  "stereo-depth-estimation",
+                  "stereo-matching",
+                  "stereo-transformer",
+                  "stereo-vision"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2090,12 +3191,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LeViT a Vision Transformer in ConvNet's Clothing for Faster Inference",
+                "homepage": null,
                 "id": 352949452,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-27T21:44:31Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "LeViT",
-                "stars": 624
+                "stars": 624,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2106,12 +3212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Officially unofficial re-implementation of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021. ",
+                "homepage": null,
                 "id": 394126104,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-11T10:20:40Z",
+                "open_issues": 2,
                 "owner": "Huage001",
                 "repo": "PaintTransformer",
-                "stars": 524
+                "stars": 524,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2122,12 +3233,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official implementation of CrossViT. https://arxiv.org/abs/2103.14899",
+                "homepage": null,
                 "id": 391188495,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-12T15:13:20Z",
+                "open_issues": 7,
                 "owner": "IBM",
                 "repo": "CrossViT",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "multi-scale-features",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2138,12 +3259,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is an official implementation of the ICCV 2021 paper \"Conditional DETR for Fast Training Convergence\". (https://arxiv.org/abs/2108.06152)",
+                "homepage": null,
                 "id": 396581142,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-22T16:53:07Z",
+                "open_issues": 10,
                 "owner": "Atten4Vis",
                 "repo": "ConditionalDETR",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "detr",
+                  "iccv2021",
+                  "object-detection",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2154,12 +3285,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation for \"TransPose: Keypoint localization via Transformer\", ICCV 2021.",
+                "homepage": "https://github.com/yangsenius/TransPose/releases/download/paper/transpose.pdf",
                 "id": 325727200,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-05-22T07:55:39Z",
+                "open_issues": 16,
                 "owner": "yangsenius",
                 "repo": "TransPose",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "keypoint",
+                  "localization",
+                  "pose-estimation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2170,12 +3311,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-Fidelity Pluralistic Image Completion with Transformers (ICCV 2021)",
+                "homepage": null,
                 "id": 336944551,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-07T02:26:59Z",
+                "open_issues": 28,
                 "owner": "raywzy",
                 "repo": "ICT",
-                "stars": 329
+                "stars": 329,
+                "topics": [
+                  "iccv2021",
+                  "image-completion",
+                  "image-inpainting",
+                  "pytorch",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2186,12 +3338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 352858333,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-23T04:05:56Z",
+                "open_issues": 0,
                 "owner": "naver-ai",
                 "repo": "pit",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2202,12 +3359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SOTR: Segmenting Objects with Transformers",
+                "homepage": null,
                 "id": 390280760,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-15T00:54:41Z",
+                "open_issues": 7,
                 "owner": "easton-cau",
                 "repo": "SOTR",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2218,12 +3380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Transformers Solve Limited Receptive Field for Monocular Depth Prediction",
+                "homepage": null,
                 "id": 347157216,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-12T07:12:07Z",
+                "open_issues": 3,
                 "owner": "ygjwd12345",
                 "repo": "TransDepth",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2234,12 +3401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper Vision Transformer with Progressive Sampling, ICCV 2021.",
+                "homepage": null,
                 "id": 393397658,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-14T13:39:59Z",
+                "open_issues": 6,
                 "owner": "yuexy",
                 "repo": "PS-ViT",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2250,12 +3422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for paper: A Latent Transformer for Disentangled Face Editing in Images and Videos.",
+                "homepage": "https://arxiv.org/abs/2106.11895",
                 "id": 396966429,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-20T09:39:24Z",
+                "open_issues": 2,
                 "owner": "InterDigitalInc",
                 "repo": "latent-transformer",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2266,12 +3443,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization.",
+                "homepage": "https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_TS-CAM_Token_Semantic_Coupled_Attention_Map_for_Weakly_Supervised_Object_ICCV_2021_paper.pdf",
                 "id": 379620057,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-16T05:47:10Z",
+                "open_issues": 14,
                 "owner": "vasgaowei",
                 "repo": "TS-CAM",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "object-localization",
+                  "transformer",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2282,12 +3468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357043990,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-10T05:36:58Z",
+                "open_issues": 8,
                 "owner": "danczs",
                 "repo": "Visformer",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2298,12 +3489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer. ICCV2021\".",
+                "homepage": null,
                 "id": 391572849,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-01-24T16:27:49Z",
+                "open_issues": 4,
                 "owner": "zhiheLu",
                 "repo": "CWT-for-FSS",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2314,12 +3510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ICCV21 paper: PnP-DETR: Towards Efficient Visual Analysis with Transformers",
+                "homepage": null,
                 "id": 396825773,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-20T09:41:10Z",
+                "open_issues": 4,
                 "owner": "twangnh",
                 "repo": "pnp-detr",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2330,12 +3531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HiFT: Hierarchical Feature Transformer for Aerial Tracking (ICCV2021)",
+                "homepage": null,
                 "id": 389854308,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-11T08:14:25Z",
+                "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2346,12 +3552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pyramid Point Cloud Transformer for Large-Scale Place Recognition",
+                "homepage": null,
                 "id": 396849220,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-20T15:36:38Z",
+                "open_issues": 8,
                 "owner": "fpthink",
                 "repo": "PPT-Net",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2362,12 +3573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 397029484,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-09T06:56:11Z",
+                "open_issues": 2,
                 "owner": "zhenglab",
                 "repo": "HarmonyTransformer",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2378,12 +3594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation",
+                "homepage": null,
                 "id": 391620091,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-18T14:46:53Z",
+                "open_issues": 1,
                 "owner": "sheepooo",
                 "repo": "PIT-Position-Invariant-Transform",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2394,12 +3615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMCA replication",
+                "homepage": null,
                 "id": 351061815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-24T12:27:38Z",
+                "open_issues": 4,
                 "owner": "abc403",
                 "repo": "SMCA-replication",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2410,12 +3636,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021] Official PyTorch implementation for Transformer Interpretability Beyond Attention Visualization, a novel method to visualize classifications by Transformer based networks.",
+                "homepage": null,
                 "id": 315439501,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-01-24T05:59:39Z",
+                "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2014
+                "stars": 2014,
+                "topics": [
+                  "attention-matrix",
+                  "attention-visualization",
+                  "bert",
+                  "bert-model",
+                  "cvpr2021",
+                  "deep-learning",
+                  "explainability",
+                  "perturbation",
+                  "transformer-interpretability",
+                  "vision-transformer",
+                  "visualize-classifications",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2426,12 +3670,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 351720449,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-19T17:12:20Z",
+                "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1599
+                "stars": 1599,
+                "topics": [
+                  "autonomous-driving",
+                  "imitation-learning",
+                  "sensor-fusion",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2442,12 +3696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformer Tracking (CVPR2021) ",
+                "homepage": null,
                 "id": 348575935,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-01T08:29:45Z",
+                "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2458,12 +3717,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22] Official PyTorch Implementation of \"Collaborative Transformers for Grounded Situation Recognition\"",
+                "homepage": "https://coformer.github.io/",
                 "id": 475897623,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-09T08:53:40Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "CoFormer",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "tranformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2474,12 +3747,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative Adversarial Transformers",
+                "homepage": null,
                 "id": 343429224,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-14T16:57:20Z",
+                "open_issues": 15,
                 "owner": "dorarad",
                 "repo": "gansformer",
-                "stars": 1344
+                "stars": 1344,
+                "topics": [
+                  "attention",
+                  "compositionality",
+                  "gans",
+                  "generative-adversarial-networks",
+                  "image-generation",
+                  "scene-generation",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2490,12 +3776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 306018946,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:15Z",
+                "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12683
+                "stars": 12684,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2506,12 +3797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable DETR: Deformable Transformers for End-to-End Object Detection.",
+                "homepage": null,
                 "id": 317181420,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-16T03:54:39Z",
+                "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4016
+                "stars": 4016,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2522,12 +3818,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute",
+                "homepage": null,
                 "id": 302436113,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-18T19:54:34Z",
+                "open_issues": 13,
                 "owner": "lucidrains",
                 "repo": "lambda-networks",
-                "stars": 1529
+                "stars": 1529,
+                "topics": [
+                  "artificial-intelligence",
+                  "attention",
+                  "attention-mechanism",
+                  "computer-vision",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2538,12 +3845,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DPT: Deformable Patch-based Transformer for Visual Recognition (ACM MM2021)",
+                "homepage": null,
                 "id": 383640814,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-18T12:42:06Z",
+                "open_issues": 17,
                 "owner": "CASIA-LMC-Lab",
                 "repo": "DPT",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2554,12 +3866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 360436406,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-06T07:42:55Z",
+                "open_issues": 0,
                 "owner": "VideoNetworks",
                 "repo": "TokShift-Transformer",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2570,12 +3887,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Code for \"Medical Transformer: Gated Axial-Attention for Medical Image Segmentation\" - MICCAI 2021",
+                "homepage": null,
                 "id": 338717688,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-23T08:42:53Z",
+                "open_issues": 37,
                 "owner": "jeya-maria-jose",
                 "repo": "Medical-Transformer",
-                "stars": 861
+                "stars": 861,
+                "topics": [
+                  "attention",
+                  "deep-learning",
+                  "medical-image-analysis",
+                  "medical-imaging",
+                  "pytorch",
+                  "segmentation",
+                  "transformer",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2586,12 +3917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation",
+                "homepage": null,
                 "id": 411042315,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-14T01:26:07Z",
+                "open_issues": 4,
                 "owner": "yhygao",
                 "repo": "UTNet",
-                "stars": 200
+                "stars": 200,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2602,12 +3938,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2021-MICCAI-Progressively Normalized Self-Attention Network for Video Polyp Segmentation",
+                "homepage": null,
                 "id": 345655620,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-06T10:33:06Z",
+                "open_issues": 1,
                 "owner": "GewelsJI",
                 "repo": "PNS-Net",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "colonoscopy",
+                  "polyp",
+                  "video-object-segmentation",
+                  "video-polyp-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2618,12 +3964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 377020167,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-28T10:44:51Z",
+                "open_issues": 4,
                 "owner": "JiYuanFeng",
                 "repo": "MCTrans",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2634,12 +3985,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BMVC2021] \"TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation\"",
+                "homepage": null,
                 "id": 418023738,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-17T23:04:25Z",
+                "open_issues": 2,
                 "owner": "HowieMa",
                 "repo": "TransFusion-Pose",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "3d-human-pose",
+                  "epipolar-geometry",
+                  "pose-estimation",
+                  "pytorch",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2650,12 +4012,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BMVC'21] Official PyTorch Implementation of \"Grounded Situation Recognition with Transformers\"",
+                "homepage": "https://gsrtr.github.io/",
                 "id": 429803705,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-30T07:39:56Z",
+                "open_issues": 0,
                 "owner": "jhcho99",
                 "repo": "GSRTR",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bmvc2021",
+                  "deep-learning",
+                  "grounded-situation-recognition",
+                  "pytorch",
+                  "scene-understanding",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2666,12 +4040,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch Implementation for \"PTT: Point-Track-Transformer Module for 3D Single Object Trackingin Point Clouds\"",
+                "homepage": null,
                 "id": 344109156,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-29T02:59:25Z",
+                "open_issues": 2,
                 "owner": "shanjiayao",
                 "repo": "PTT",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "deep-learning",
+                  "point-cloud",
+                  "sot",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2682,12 +4066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of YOGO for point-cloud processing",
+                "homepage": null,
                 "id": 342183943,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-08-19T07:58:43Z",
+                "open_issues": 3,
                 "owner": "chenfengxu714",
                 "repo": "YOGO",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2698,12 +4087,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official repository of End-to-end Lane Shape Prediction with Transformers.",
+                "homepage": null,
                 "id": 311198036,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-12-27T07:23:53Z",
+                "open_issues": 34,
                 "owner": "liuruijin17",
                 "repo": "LSTR",
-                "stars": 662
+                "stars": 662,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             }
@@ -2721,12 +4115,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "End-to-End Object Detection with Transformers",
+                "homepage": null,
                 "id": 267176885,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-12T15:58:25Z",
+                "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15354
+                "stars": 15354,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             }
@@ -2744,12 +4143,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+                "homepage": null,
                 "id": 406653146,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-30T06:57:18Z",
+                "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5049
+                "stars": 5049,
+                "topics": [
+                  "attention-mechanism",
+                  "attention-mechanisms",
+                  "awesome-list",
+                  "computer-vision",
+                  "deep-learning",
+                  "detr",
+                  "papers",
+                  "self-attention",
+                  "transformer",
+                  "transformer-architecture",
+                  "transformer-awesome",
+                  "transformer-cv",
+                  "transformer-models",
+                  "transformer-with-cv",
+                  "transformers",
+                  "vision-transformer",
+                  "visual-transformer",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             }
@@ -2763,15 +4186,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:59:42.163Z",
+    "last_updated": "2026-08-29T04:18:26.665Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
+      "homepage": null,
       "id": 318087408,
       "language": null,
+      "license": null,
       "last_commit": "2025-01-07T01:59:49Z",
+      "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3592
+      "stars": 3592,
+      "topics": [
+        "detr",
+        "transformer",
+        "transformer-awesome",
+        "transformer-cv",
+        "transformer-with-cv",
+        "visual-transformer"
+      ]
     },
     "original_repository_sha": "d7617b3efc3187ebf0da7722fb87b8e631c96779",
     "enhanced_repository": "enhansome/enhansome-Awesome-Visual-Transformer",
