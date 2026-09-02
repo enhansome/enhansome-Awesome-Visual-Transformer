@@ -42,7 +42,7 @@
                 "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5585,
+                "stars": 5586,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4352,
+                "stars": 4351,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -97,7 +97,7 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T15:11:00Z",
+                "last_commit": "2026-09-02T16:39:27Z",
                 "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -543,6 +543,27 @@
             },
             {
               "node_type": "item",
+              "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
+                "homepage": null,
+                "id": 348718235,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-11-09T15:05:02Z",
+                "open_issues": 25,
+                "owner": "zczcwh",
+                "repo": "PoseFormer",
+                "stars": 586,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
               "description": "] [code]",
               "children": [],
@@ -564,27 +585,6 @@
                   "detr",
                   "transformer"
                 ]
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
-                "homepage": null,
-                "id": 348718235,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-11-09T15:05:02Z",
-                "open_issues": 25,
-                "owner": "zczcwh",
-                "repo": "PoseFormer",
-                "stars": 585,
-                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -816,7 +816,7 @@
                 "open_issues": 17,
                 "owner": "dingmyu",
                 "repo": "davit",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1928,7 +1928,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16061,
+                "stars": 16063,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2170,7 +2170,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2828,7 +2828,7 @@
                 "open_issues": 45,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16061,
+                "stars": 16063,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2973,7 +2973,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3002,7 +3002,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3056,7 +3056,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1049,
+                "stars": 1050,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3115,29 +3115,6 @@
             },
             {
               "node_type": "item",
-              "title": "[Stark] Learning Spatio-Temporal Transformer for Visual Tracking [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking",
-                "homepage": null,
-                "id": 351337211,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-04-13T07:02:29Z",
-                "open_issues": 70,
-                "owner": "researchmm",
-                "repo": "Stark",
-                "stars": 716,
-                "topics": [
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
               "title": "[3DETR] An End-to-End Transformer Model for 3D Object Detection [paper",
               "description": "] [code]",
               "children": [],
@@ -3154,6 +3131,29 @@
                 "repo": "3detr",
                 "stars": 714,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[Stark] Learning Spatio-Temporal Transformer for Visual Tracking [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking",
+                "homepage": null,
+                "id": 351337211,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-04-13T07:02:29Z",
+                "open_issues": 70,
+                "owner": "researchmm",
+                "repo": "Stark",
+                "stars": 714,
+                "topics": [
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -3540,7 +3540,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3705,7 +3705,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 635,
+                "stars": 634,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3785,7 +3785,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12695,
+                "stars": 12697,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4017,
+                "stars": 4018,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:17:57.172Z",
+    "last_updated": "2026-09-02T17:06:28.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
