@@ -42,7 +42,7 @@
                 "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5585,
+                "stars": 5584,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3638,
+                "stars": 3640,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2418,
+                "stars": 2417,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -350,7 +350,7 @@
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -543,27 +543,6 @@
             },
             {
               "node_type": "item",
-              "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
-                "homepage": null,
-                "id": 348718235,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-11-09T15:05:02Z",
-                "open_issues": 25,
-                "owner": "zczcwh",
-                "repo": "PoseFormer",
-                "stars": 586,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
               "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
               "description": "] [code]",
               "children": [],
@@ -585,6 +564,27 @@
                   "detr",
                   "transformer"
                 ]
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
+              "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
+                "homepage": null,
+                "id": 348718235,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-11-09T15:05:02Z",
+                "open_issues": 25,
+                "owner": "zczcwh",
+                "repo": "PoseFormer",
+                "stars": 585,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1339,7 +1339,7 @@
                 "open_issues": 1,
                 "owner": "rayguan97",
                 "repo": "M3DETR",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "3d-object-detection",
                   "deep-learning",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16065,
+                "stars": 16066,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2116,7 +2116,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8366,
+                "stars": 8365,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2137,7 +2137,7 @@
                 "open_issues": 55,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2632,
+                "stars": 2634,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16065,
+                "stars": 16066,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -3785,7 +3785,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12699,
+                "stars": 12702,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:49:30.547Z",
+    "last_updated": "2026-09-05T15:56:57.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
