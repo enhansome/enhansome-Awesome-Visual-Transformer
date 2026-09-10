@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7418,
+                "stars": 7420,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5590,
+                "stars": 5591,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -98,10 +98,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T20:32:58Z",
-                "open_issues": 304,
+                "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3824,
+                "stars": 3825,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3641,
+                "stars": 3643,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -223,7 +223,7 @@
                 "open_issues": 38,
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1790,
+                "stars": 1791,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -278,7 +278,7 @@
                 "open_issues": 15,
                 "owner": "VITA-Group",
                 "repo": "TransGAN",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": [
                   "gan",
                   "pytorch",
@@ -350,7 +350,7 @@
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1055,
+                "stars": 1056,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -1928,7 +1928,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -1984,7 +1984,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2056,7 +2056,7 @@
                 "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "attention-mechanism",
                   "eccv2022",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16070,
+                "stars": 16071,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2137,7 +2137,7 @@
                 "open_issues": 55,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2637,
+                "stars": 2640,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2170,7 +2170,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2633,7 +2633,7 @@
                 "open_issues": 15,
                 "owner": "Sense-X",
                 "repo": "UniFormer",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "image-classification",
                   "object-detection",
@@ -2749,7 +2749,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4421,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2781,7 +2781,7 @@
                 "open_issues": 92,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16070,
+                "stars": 16071,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2945,7 +2945,7 @@
                 "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1902,
+                "stars": 1901,
                 "topics": [
                   "backbone",
                   "detection",
@@ -2973,7 +2973,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3002,7 +3002,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3410,7 +3410,7 @@
                 "open_issues": 6,
                 "owner": "yuexy",
                 "repo": "PS-ViT",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3785,7 +3785,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12703,
+                "stars": 12707,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15353,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:07:18.694Z",
+    "last_updated": "2026-09-10T16:57:56.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4198,7 +4198,7 @@
       "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3591,
+      "stars": 3590,
       "topics": [
         "detr",
         "transformer",
