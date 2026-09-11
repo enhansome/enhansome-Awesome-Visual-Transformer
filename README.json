@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7420,
+                "stars": 7421,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5591,
+                "stars": 5589,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -97,8 +97,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T20:32:58Z",
-                "open_issues": 305,
+                "last_commit": "2026-09-10T18:40:57Z",
+                "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3825,
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2418,
+                "stars": 2419,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1791,
+                "stars": 1793,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2137,7 +2137,7 @@
                 "open_issues": 55,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2640,
+                "stars": 2639,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2241,7 +2241,7 @@
                 "open_issues": 26,
                 "owner": "hustvl",
                 "repo": "TopFormer",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "mobile-semantic-segmentation",
                   "semantic-segmentation"
@@ -3679,7 +3679,7 @@
                 "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1598,
+                "stars": 1599,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3782,10 +3782,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:15Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12707,
+                "stars": 12708,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4020,
+                "stars": 4021,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15352,
+                "stars": 15353,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4152,7 +4152,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5045,
+                "stars": 5046,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:57:56.968Z",
+    "last_updated": "2026-09-11T16:59:46.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
