@@ -42,7 +42,7 @@
                 "open_issues": 79,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5589,
+                "stars": 5590,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2836,
+                "stars": 2837,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -244,7 +244,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1793,
+                "stars": 1794,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -934,7 +934,7 @@
                 "open_issues": 7,
                 "owner": "DengPingFan",
                 "repo": "Polyp-PVT",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2116,7 +2116,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8362,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2137,7 +2137,7 @@
                 "open_issues": 55,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2639,
+                "stars": 2640,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -3101,7 +3101,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:59:46.078Z",
+    "last_updated": "2026-09-12T16:12:04.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
