@@ -42,7 +42,7 @@
                 "open_issues": 80,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5590,
+                "stars": 5591,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -101,7 +101,7 @@
                 "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3827,
+                "stars": 3828,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3646,
+                "stars": 3649,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2838,
+                "stars": 2839,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1664,
+                "stars": 1665,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -350,7 +350,7 @@
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16073,
+                "stars": 16072,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2116,7 +2116,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2641,
+                "stars": 2643,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2633,7 +2633,7 @@
                 "open_issues": 15,
                 "owner": "Sense-X",
                 "repo": "UniFormer",
-                "stars": 910,
+                "stars": 909,
                 "topics": [
                   "image-classification",
                   "object-detection",
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16073,
+                "stars": 16072,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2945,7 +2945,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1902,
+                "stars": 1903,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3101,7 +3101,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 860,
+                "stars": 861,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3129,7 +3129,7 @@
                 "open_issues": 25,
                 "owner": "facebookresearch",
                 "repo": "3detr",
-                "stars": 714,
+                "stars": 715,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3676,7 +3676,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-10-19T17:12:20Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
                 "stars": 1600,
@@ -3785,7 +3785,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12710,
+                "stars": 12712,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:31:38.459Z",
+    "last_updated": "2026-09-15T17:38:10.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
