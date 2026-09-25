@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7423,
+                "stars": 7422,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -101,7 +101,7 @@
                 "open_issues": 305,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3838,
+                "stars": 3839,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3240,
+                "stars": 3241,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -511,7 +511,7 @@
                 "open_issues": 23,
                 "owner": "PeizeSun",
                 "repo": "TransTrack",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16083,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2645,
+                "stars": 2646,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2828,7 +2828,7 @@
                 "open_issues": 46,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16083,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2945,7 +2945,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1904,
+                "stars": 1905,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3320,7 +3320,7 @@
                 "open_issues": 28,
                 "owner": "raywzy",
                 "repo": "ICT",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "iccv2021",
                   "image-completion",
@@ -3785,7 +3785,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12724,
+                "stars": 12725,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4025,
+                "stars": 4024,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4152,7 +4152,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5048,
+                "stars": 5047,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:49:50.888Z",
+    "last_updated": "2026-09-25T17:53:52.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4198,7 +4198,7 @@
       "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3589,
+      "stars": 3588,
       "topics": [
         "detr",
         "transformer",
