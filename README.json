@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3667,
+                "stars": 3668,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -244,7 +244,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -511,7 +511,7 @@
                 "open_issues": 23,
                 "owner": "PeizeSun",
                 "repo": "TransTrack",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -657,7 +657,7 @@
                 "open_issues": 17,
                 "owner": "JDAI-CV",
                 "repo": "CoTNet",
-                "stars": 539,
+                "stars": 538,
                 "topics": [
                   "contextual-transformer",
                   "cotnet",
@@ -3101,7 +3101,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 865,
+                "stars": 866,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3756,7 +3756,7 @@
                 "open_issues": 15,
                 "owner": "dorarad",
                 "repo": "gansformer",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "attention",
                   "compositionality",
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4023,
+                "stars": 4025,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15350,
+                "stars": 15351,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:34:18.621Z",
+    "last_updated": "2026-09-30T18:22:57.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
