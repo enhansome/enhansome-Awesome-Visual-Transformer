@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7426,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5601,
+                "stars": 5602,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4348,
+                "stars": 4349,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3668,
+                "stars": 3669,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -223,7 +223,7 @@
                 "open_issues": 38,
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1665,
+                "stars": 1666,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -689,7 +689,7 @@
                 "open_issues": 18,
                 "owner": "researchmm",
                 "repo": "AOT-GAN-for-Inpainting",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "codebase",
                   "high-resolution",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16088,
+                "stars": 16093,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2648,
+                "stars": 2650,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2196,7 +2196,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-11-01T17:34:21Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "microsoft",
                 "repo": "CSWin-Transformer",
                 "stars": 586,
@@ -2633,7 +2633,7 @@
                 "open_issues": 15,
                 "owner": "Sense-X",
                 "repo": "UniFormer",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "image-classification",
                   "object-detection",
@@ -2781,7 +2781,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1010,
+                "stars": 1011,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2802,7 +2802,7 @@
                 "open_issues": 15,
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 901,
+                "stars": 902,
                 "topics": [
                   "computer-vision",
                   "object-detection",
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16088,
+                "stars": 16093,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -3781,11 +3781,11 @@
                 "id": 306018946,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-01T21:36:15Z",
-                "open_issues": 141,
+                "last_commit": "2026-10-01T09:57:36Z",
+                "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12728,
+                "stars": 12730,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4025,
+                "stars": 4026,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:22:57.939Z",
+    "last_updated": "2026-10-01T18:47:45.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
