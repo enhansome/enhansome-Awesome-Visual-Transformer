@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7428,
+                "stars": 7429,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3669,
+                "stars": 3671,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3242,
+                "stars": 3244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -278,7 +278,7 @@
                 "open_issues": 15,
                 "owner": "VITA-Group",
                 "repo": "TransGAN",
-                "stars": 1693,
+                "stars": 1694,
                 "topics": [
                   "gan",
                   "pytorch",
@@ -347,7 +347,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-21T16:42:35Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
                 "stars": 1063,
@@ -532,7 +532,7 @@
                 "open_issues": 13,
                 "owner": "Meituan-AutoML",
                 "repo": "Twins",
-                "stars": 611,
+                "stars": 610,
                 "topics": [
                   "image-classification",
                   "twins",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16093,
+                "stars": 16095,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2749,7 +2749,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4421,
+                "stars": 4422,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2802,7 +2802,7 @@
                 "open_issues": 15,
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "computer-vision",
                   "object-detection",
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16093,
+                "stars": 16095,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -3077,7 +3077,7 @@
                 "open_issues": 21,
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 905,
+                "stars": 906,
                 "topics": [
                   "segmentation",
                   "transformer"
@@ -3098,7 +3098,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-24T10:37:16Z",
-                "open_issues": 85,
+                "open_issues": 84,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
                 "stars": 866,
@@ -3221,7 +3221,7 @@
                 "open_issues": 2,
                 "owner": "Huage001",
                 "repo": "PaintTransformer",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3785,7 +3785,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12730,
+                "stars": 12731,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:47:45.271Z",
+    "last_updated": "2026-10-02T18:20:16.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
