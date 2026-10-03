@@ -98,7 +98,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 305,
+                "open_issues": 307,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3245,
+                "stars": 3244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2847,
+                "stars": 2846,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -223,7 +223,7 @@
                 "open_issues": 38,
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2333,
+                "stars": 2332,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2076,7 +2076,7 @@
               "description": "microsoft/Swin-Transformer",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
                 "homepage": "https://arxiv.org/abs/2103.14030",
                 "id": 351432397,
@@ -2905,7 +2905,7 @@
               "description": "microsoft/Swin-Transformer",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
                 "homepage": "https://arxiv.org/abs/2103.14030",
                 "id": 351432397,
@@ -2945,7 +2945,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3645,7 +3645,7 @@
                 "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2016,
+                "stars": 2017,
                 "topics": [
                   "attention-matrix",
                   "attention-visualization",
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15352,
+                "stars": 15350,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:02.967Z",
+    "last_updated": "2026-10-03T17:10:50.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
