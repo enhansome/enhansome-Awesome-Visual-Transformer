@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "[MViT] Multiscale Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/SlowFast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "[SwinIR] SwinIR: Image Restoration Using Swin Transformer [paper",
-              "description": "] [code]",
+              "description": "JingyunLiang/SwinIR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -67,7 +67,7 @@
             {
               "node_type": "item",
               "title": "[DeiT] Training data-efficient image transformers & distillation through attention [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/deit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -88,7 +88,7 @@
             {
               "node_type": "item",
               "title": "TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? [paper",
-              "description": "] [code]",
+              "description": "google-research/scenic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "[SegFormer] SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers [paper",
-              "description": "] [code]",
+              "description": "NVlabs/SegFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,7 +143,7 @@
             {
               "node_type": "item",
               "title": "[TransUNet] TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "Beckschen/TransUNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3244,
+                "stars": 3245,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -164,7 +164,7 @@
             {
               "node_type": "item",
               "title": "DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [paper",
-              "description": "] [code]",
+              "description": "IDEA-Research/DINO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "[Swin-Unet] Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "HuCaoFighting/Swin-Unet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "[DPT] Vision Transformers for Dense Prediction [paper",
-              "description": "] [code]",
+              "description": "isl-org/DPT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "[VideoMAE] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [paper",
-              "description": "] [code]",
+              "description": "MCG-NJU/VideoMAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "[TransGAN] TransGAN: Two Transformers Can Make One Strong GAN [paper",
-              "description": "] [code]",
+              "description": "VITA-Group/TransGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -292,7 +292,7 @@
             {
               "node_type": "item",
               "title": "Video Swin Transformer [paper",
-              "description": "] [code]",
+              "description": "SwinTransformer/Video-Swin-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "[MaskFormer] MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/MaskFormer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "[Superpoint Transformer] Efficient 3D Semantic Segmentation with Superpoint Transformer [paper",
-              "description": "] [code]",
+              "description": "drprojects/superpoint_transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "[Uformer] Uformer: A General U-Shaped Transformer for Image Restoration [paper",
-              "description": "] [code]",
+              "description": "ZhendongWang6/Uformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "[VOLO] VOLO: Vision Outlooker for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "sail-sg/volo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +426,7 @@
             {
               "node_type": "item",
               "title": "[MOTR] MOTR: End-to-End Multiple-Object Tracking with TRansformer [paper",
-              "description": "] [code]",
+              "description": "megvii-research/MOTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "[XCiT] XCiT: Cross-Covariance Image Transformers [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/xcit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Learning with Swin Transformers [paper",
-              "description": "] [code]",
+              "description": "SwinTransformer/Transformer-SSL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "[TransTrack] TransTrack: Multiple-Object Tracking with Transformer [paper",
-              "description": "] [code]",
+              "description": "PeizeSun/TransTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -519,7 +519,7 @@
             {
               "node_type": "item",
               "title": "[Twins] Twins: Revisiting Spatial Attention Design in Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "Meituan-AutoML/Twins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
-              "description": "] [code]",
+              "description": "IDEA-Research/DAB-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,7 +570,7 @@
             {
               "node_type": "item",
               "title": "3D Human Pose Estimation with Spatial and Temporal Transformers [paper",
-              "description": "] [code]",
+              "description": "zczcwh/PoseFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,7 +591,7 @@
             {
               "node_type": "item",
               "title": "Focal Self-attention for Local-Global Interactions in Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "microsoft/Focal-Transformer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -612,7 +612,7 @@
             {
               "node_type": "item",
               "title": "[StyleSwin] StyleSwin: Transformer-based GAN for High-resolution Image Generation [paper",
-              "description": "] [code]",
+              "description": "microsoft/StyleSwin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -644,7 +644,7 @@
             {
               "node_type": "item",
               "title": "Contextual Transformer Networks for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "JDAI-CV/CoTNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -676,7 +676,7 @@
             {
               "node_type": "item",
               "title": "[AOT-GAN] Aggregated Contextual Transformations for High-Resolution Image Inpainting [paper",
-              "description": "] [code]",
+              "description": "researchmm/AOT-GAN-for-Inpainting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "[MViTv2] Improved Multiscale Vision Transformers for Classification and Detection [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/mvit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -723,7 +723,7 @@
             {
               "node_type": "item",
               "title": "[TransBTS] TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [paper",
-              "description": "] [code]",
+              "description": "Rubics-Xuan/TransBTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -748,7 +748,7 @@
             {
               "node_type": "item",
               "title": "Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet [paper",
-              "description": "] [code]",
+              "description": "zihangJiang/TokenLabeling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -776,7 +776,7 @@
             {
               "node_type": "item",
               "title": "[Meta-DETR] Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning [paper",
-              "description": "[code]",
+              "description": "ZhangGongjie/Meta-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
                 "open_issues": 58,
                 "owner": "ZhangGongjie",
                 "repo": "Meta-DETR",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "computer-vision",
                   "few-shot-object-detection",
@@ -803,7 +803,7 @@
             {
               "node_type": "item",
               "title": "[DaViT] DaViT: Dual Attention Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "dingmyu/davit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
             {
               "node_type": "item",
               "title": "Anchor DETR: Query Design for Transformer-Based Detector [paper",
-              "description": "] [code]",
+              "description": "megvii-research/AnchorDETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -845,7 +845,7 @@
             {
               "node_type": "item",
               "title": "[SiT] SiT: Self-supervised vIsion Transformer [paper",
-              "description": "] [code]",
+              "description": "Sara-Ahmed/SiT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -866,7 +866,7 @@
             {
               "node_type": "item",
               "title": "[ResT] ResT: An Efficient Transformer for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "wofmanaf/ResT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -887,7 +887,7 @@
             {
               "node_type": "item",
               "title": "[CrossEfficientViT] Combining EfficientNet and Vision Transformers for Video Deepfake Detection [paper",
-              "description": "] [code]",
+              "description": "davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -921,7 +921,7 @@
             {
               "node_type": "item",
               "title": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "DengPingFan/Polyp-PVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -942,7 +942,7 @@
             {
               "node_type": "item",
               "title": "Group-Free 3D Object Detection via Transformers [paper",
-              "description": "] [code]",
+              "description": "zeliu98/Group-Free-3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -963,7 +963,7 @@
             {
               "node_type": "item",
               "title": "BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning [paper",
-              "description": "] [code]",
+              "description": "zhihou7/BatchFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +993,7 @@
             {
               "node_type": "item",
               "title": "[TransVOD] End-to-End Video Object Detection with Spatial-Temporal Transformers [paper",
-              "description": "] [code]",
+              "description": "SJTU-LuHe/TransVOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1014,7 +1014,7 @@
             {
               "node_type": "item",
               "title": "[CoaT] Co-Scale Conv-Attentional Image Transformers [paper",
-              "description": "] [code]",
+              "description": "mlpc-ucsd/CoaT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1035,7 +1035,7 @@
             {
               "node_type": "item",
               "title": "[CvT] CvT: Introducing Convolutions to Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "leoxiaobin/CvT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "[ISTR] ISTR: End-to-End Instance Segmentation with Transformers [paper",
-              "description": "] [code]",
+              "description": "hujiecpp/ISTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1077,7 +1077,7 @@
             {
               "node_type": "item",
               "title": "[CPVT] Do We Really Need Explicit Position Encodings for Vision Transformers? [paper",
-              "description": "] [code]",
+              "description": "Meituan-AutoML/CPVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1098,7 +1098,7 @@
             {
               "node_type": "item",
               "title": "[Styleformer] Styleformer: Transformer based Generative Adversarial Networks with Style Vector [paper",
-              "description": "] [code]",
+              "description": "Jeeseung-Park/Styleformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "[FastMETRO] Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [paper",
-              "description": "] [code]",
+              "description": "kaist-ami/FastMETRO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1140,7 +1140,7 @@
             {
               "node_type": "item",
               "title": "End-to-end Temporal Action Detection with Transformer [paper",
-              "description": "] [code]",
+              "description": "xlliu7/TadTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1167,7 +1167,7 @@
             {
               "node_type": "item",
               "title": "[Trans2Seg] Segmenting Transparent Object in the Wild with Transformer [paper",
-              "description": "] [code]",
+              "description": "xieenze/Trans2Seg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1188,7 +1188,7 @@
             {
               "node_type": "item",
               "title": "[GazeTR] Gaze Estimation using Transformer [paper",
-              "description": "] [code]",
+              "description": "yihuacheng/GazeTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1209,7 +1209,7 @@
             {
               "node_type": "item",
               "title": "Associating Objects with Transformers for Video Object Segmentation [paper",
-              "description": "] [code]",
+              "description": "z-x-yang/AOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1233,7 +1233,7 @@
             {
               "node_type": "item",
               "title": "[BossNAS] BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search [paper",
-              "description": "] [code]",
+              "description": "changlin31/BossNAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,7 +1261,7 @@
             {
               "node_type": "item",
               "title": "[TRIQ] Transformer for Image Quality Assessment [paper",
-              "description": "] [code]",
+              "description": "junyongyou/triq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "[LocalViT] LocalViT: Bringing Locality to Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "ofsoundof/LocalViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,7 +1305,7 @@
             {
               "node_type": "item",
               "title": "[TransCrowd] TransCrowd: Weakly-Supervised Crowd Counting with Transformer [paper",
-              "description": "] [code]",
+              "description": "dk-liang/TransCrowd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1326,7 +1326,7 @@
             {
               "node_type": "item",
               "title": "[M3DeTR] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [paper",
-              "description": "] [code]",
+              "description": "rayguan97/M3DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1355,7 +1355,7 @@
             {
               "node_type": "item",
               "title": "Transformer in Convolutional Neural Networks [paper",
-              "description": "] [code]",
+              "description": "yun-liu/HAT-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1376,7 +1376,7 @@
             {
               "node_type": "item",
               "title": "Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer [paper",
-              "description": "] [code]",
+              "description": "mulinmeng/Shuffle-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1397,7 +1397,7 @@
             {
               "node_type": "item",
               "title": "[ConTNet] ConTNet: Why not use convolution and transformer at the same time? [paper",
-              "description": "] [code]",
+              "description": "yan-hao-tian/ConTNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1423,7 +1423,7 @@
             {
               "node_type": "item",
               "title": "Light Field Image Super-Resolution with Transformers [paper",
-              "description": "] [code]",
+              "description": "ZhengyuLiang24/LFT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1444,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds [paper",
-              "description": "] [code]",
+              "description": "OPEN-AIR-SUN/PQ-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1465,7 +1465,7 @@
             {
               "node_type": "item",
               "title": "[TrTr] TrTr: Visual Tracking with Transformer [paper",
-              "description": "] [code]",
+              "description": "tongtybj/TrTr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1486,7 +1486,7 @@
             {
               "node_type": "item",
               "title": "[MSG-Transformer] MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens [paper",
-              "description": "] [code]",
+              "description": "hustvl/MSG-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1507,7 +1507,7 @@
             {
               "node_type": "item",
               "title": "Improve Vision Transformers Training by Suppressing Over-smoothing [paper",
-              "description": "] [code]",
+              "description": "ChengyueGongR/PatchVisionTransformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1528,7 +1528,7 @@
             {
               "node_type": "item",
               "title": "[FocusedDecoder] Focused Decoding Enables 3D Anatomical Detection by Transformers [paper",
-              "description": "] [code]",
+              "description": "bwittmann/transoar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1557,7 +1557,7 @@
             {
               "node_type": "item",
               "title": "[TransDA] Transformer-Based Source-Free Domain Adaptation [paper",
-              "description": "] [code]",
+              "description": "ygjwd12345/TransDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1578,7 +1578,7 @@
             {
               "node_type": "item",
               "title": "[SReT] Sliced Recursive Transformer [paper",
-              "description": "] [code]",
+              "description": "szq0214/SReT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1605,7 +1605,7 @@
             {
               "node_type": "item",
               "title": "[RelViT] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [paper]",
-              "description": "[code]",
+              "description": "NVlabs/RelViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1632,7 +1632,7 @@
             {
               "node_type": "item",
               "title": "[SpecTr] SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "boxiangyun/SpecTr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1653,7 +1653,7 @@
             {
               "node_type": "item",
               "title": "[CoFormer] Collaborative Transformers for Grounded Situation Recognition [paper",
-              "description": "] [code]",
+              "description": "jhcho99/CoFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1683,7 +1683,7 @@
             {
               "node_type": "item",
               "title": "[So-ViT] So-ViT: Mind Visual Tokens for Vision Transformer [paper",
-              "description": "] [code]",
+              "description": "jiangtaoxie/SoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1707,7 +1707,7 @@
             {
               "node_type": "item",
               "title": "Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection [paper",
-              "description": "] [code]",
+              "description": "tianyu0207/weakly-polyp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1733,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation [paper",
-              "description": "] [code]",
+              "description": "lelexx/MTF-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "Glance-and-Gaze Vision Transformer [paper",
-              "description": "] [code]",
+              "description": "yucornetto/GG-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,7 +1775,7 @@
             {
               "node_type": "item",
               "title": "[GSRTR] Grounded Situation Recognition with Transformers [paper",
-              "description": "] [code]",
+              "description": "jhcho99/GSRTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Visual Transformer for Task-aware Active Learning [paper",
-              "description": "] [code]",
+              "description": "razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "[TAG] TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation [paper",
-              "description": "] [code]",
+              "description": "HenryJunW/TAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "[SDNet] SDNet: mutil-branch for single image deraining using swin [paper",
-              "description": "] [code]",
+              "description": "H-tfx/SDNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "Boosting Few-shot Semantic Segmentation with Transformers [paper",
-              "description": "] [code]",
+              "description": "GuoleiSun/TRFS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "[MemMC-MAE] Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder [paper",
-              "description": "] [code]",
+              "description": "tianyu0207/MemMC-MAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1915,7 +1915,7 @@
             {
               "node_type": "item",
               "title": "[TinyViT] TinyViT: Fast Pretraining Distillation for Small Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1944,7 +1944,7 @@
             {
               "node_type": "item",
               "title": "[Unicorn] Towards Grand Unification of Object Tracking [paper",
-              "description": "] [code]",
+              "description": "MasterBin-IIAU/Unicorn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,7 +1971,7 @@
             {
               "node_type": "item",
               "title": "[OSTrack] Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework [paper",
-              "description": "] [code]",
+              "description": "botaoye/OSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1995,7 +1995,7 @@
             {
               "node_type": "item",
               "title": "[FastMETRO] Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [paper",
-              "description": "] [code]",
+              "description": "kaist-ami/FastMETRO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2016,7 +2016,7 @@
             {
               "node_type": "item",
               "title": "[P3AFormer] Tracking Objects as Pixel-wise Distributions [paper",
-              "description": "] [code]",
+              "description": "JIA-Lab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2043,7 +2043,7 @@
             {
               "node_type": "item",
               "title": "[AiATrack] AiATrack: Attention in Attention for Transformer Visual Tracking [paper",
-              "description": "] [code]",
+              "description": "Little-Podi/AiATrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2073,7 +2073,7 @@
             {
               "node_type": "item",
               "title": "Swin Transformer V2: Scaling Up Capacity and Resolution [paper",
-              "description": "] [code]",
+              "description": "microsoft/Swin-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2103,7 +2103,7 @@
             {
               "node_type": "item",
               "title": "[MAE] Masked Autoencoders Are Scalable Vision Learners [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/mae",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2124,7 +2124,7 @@
             {
               "node_type": "item",
               "title": "[Restormer] Restormer: Efficient Transformer for High-Resolution Image Restoration [paper",
-              "description": "] [code]",
+              "description": "swz30/Restormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2157,7 +2157,7 @@
             {
               "node_type": "item",
               "title": "[MiniViT] MiniViT: Compressing Vision Transformers with Weight Multiplexing [paper",
-              "description": "] [code]",
+              "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2186,7 +2186,7 @@
             {
               "node_type": "item",
               "title": "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows [paper",
-              "description": "] [code]",
+              "description": "microsoft/CSWin-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2207,7 +2207,7 @@
             {
               "node_type": "item",
               "title": "[StyTr2] StyTr2: Image Style Transfer with Transformers [paper",
-              "description": "] [code]",
+              "description": "diyiiyiii/StyTR-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2228,7 +2228,7 @@
             {
               "node_type": "item",
               "title": "TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation [paper",
-              "description": "] [code]",
+              "description": "hustvl/TopFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2252,7 +2252,7 @@
             {
               "node_type": "item",
               "title": "MPViT: Multi-Path Vision Transformer for Dense Prediction [paper",
-              "description": "] [code]",
+              "description": "youngwanLEE/MPViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,7 +2277,7 @@
             {
               "node_type": "item",
               "title": "EDTER: Edge Detection With Transformer [paper",
-              "description": "] [code]",
+              "description": "MengyangPu/EDTER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2298,7 +2298,7 @@
             {
               "node_type": "item",
               "title": "[SAM-DETR] Accelerating DETR Convergence via Semantic-Aligned Matching [paper",
-              "description": "] [code]",
+              "description": "ZhangGongjie/SAM-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2332,7 +2332,7 @@
             {
               "node_type": "item",
               "title": "[SSA] Shunted Self-Attention via Multi-Scale Token Aggregation [paper",
-              "description": "] [code]",
+              "description": "OliverRensu/Shunted-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2353,7 +2353,7 @@
             {
               "node_type": "item",
               "title": "Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection From Point Clouds [paper",
-              "description": "] [code]",
+              "description": "skyhehe123/VoxSeT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2374,7 +2374,7 @@
             {
               "node_type": "item",
               "title": "[BEVT] BEVT: BERT Pretraining of Video Transformers [paper",
-              "description": "] [code]",
+              "description": "xyzforever/BEVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2405,7 +2405,7 @@
             {
               "node_type": "item",
               "title": "[TransMix] Attend to Mix for Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "Beckschen/TransMix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2426,7 +2426,7 @@
             {
               "node_type": "item",
               "title": "[LVT] Lite Vision Transformer with Enhanced Self-Attention [paper",
-              "description": "[code]",
+              "description": "Chenglin-Yang/LVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2447,7 +2447,7 @@
             {
               "node_type": "item",
               "title": "[RVT] Towards Robust Vision Transformer [paper",
-              "description": "[code]",
+              "description": "vtddggg/Robust-Vision-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2468,7 +2468,7 @@
             {
               "node_type": "item",
               "title": "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening [paper",
-              "description": "] [code]",
+              "description": "wgcban/HyperTransformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2498,7 +2498,7 @@
             {
               "node_type": "item",
               "title": "[STRM] Spatio-temporal Relation Modeling for Few-shot Action Recognition [paper",
-              "description": "] [code]",
+              "description": "Anirudh257/strm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2527,7 +2527,7 @@
             {
               "node_type": "item",
               "title": "[CoFormer] Collaborative Transformers for Grounded Situation Recognition [paper",
-              "description": "] [code]",
+              "description": "jhcho99/CoFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2557,7 +2557,7 @@
             {
               "node_type": "item",
               "title": "[DW-ViT] Beyond Fixation: Dynamic Window Visual Transformer [paper",
-              "description": "] [code]",
+              "description": "pzhren/DW-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2578,7 +2578,7 @@
             {
               "node_type": "item",
               "title": "[NomMer] Nominate Synergistic Context in Vision Transformer for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "TencentYoutuResearch/VisualRecognition-NomMer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2599,7 +2599,7 @@
             {
               "node_type": "item",
               "title": "Image-Adaptive Hint Generation via Vision Transformer for Outpainting [paper",
-              "description": "] [code]",
+              "description": "kdh4672/hgonet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2620,7 +2620,7 @@
             {
               "node_type": "item",
               "title": "Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [paper",
-              "description": "] [code]",
+              "description": "Sense-X/UniFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2647,7 +2647,7 @@
             {
               "node_type": "item",
               "title": "[DAB-DETR] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [paper",
-              "description": "] [code]",
+              "description": "IDEA-Research/DAB-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2673,7 +2673,7 @@
             {
               "node_type": "item",
               "title": "[CrossFormer] CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [paper",
-              "description": "] [code]",
+              "description": "cheerss/CrossFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2702,7 +2702,7 @@
             {
               "node_type": "item",
               "title": "[RelViT] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning [paper",
-              "description": "] [code]",
+              "description": "NVlabs/RelViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2736,7 +2736,7 @@
             {
               "node_type": "item",
               "title": "[Augvit] Augmented Shortcuts for Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "huawei-noah/Efficient-AI-Backbones",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2768,7 +2768,7 @@
             {
               "node_type": "item",
               "title": "[TNT] Transformer in Transformer [paper",
-              "description": "] [code]",
+              "description": "huawei-noah/noah-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2789,7 +2789,7 @@
             {
               "node_type": "item",
               "title": "[YOLOS] You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper",
-              "description": "] [code]",
+              "description": "hustvl/YOLOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2815,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "[Moment-DETR] QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [paper",
-              "description": "] [code]",
+              "description": "jayleicn/moment_detr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "[Container] Container: Context Aggregation Network [paper",
-              "description": "] [code]",
+              "description": "gaopengcuhk/Container",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,7 +2860,7 @@
             {
               "node_type": "item",
               "title": "ProTo: Program-Guided Transformer for Program-Guided Tasks [paper",
-              "description": "] [code]",
+              "description": "sjtuytc/Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2881,7 +2881,7 @@
             {
               "node_type": "item",
               "title": "Dual-stream Network for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "gaopengcuhk/DSNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2902,7 +2902,7 @@
             {
               "node_type": "item",
               "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Marr Prize) [paper",
-              "description": "] [code]",
+              "description": "microsoft/Swin-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2932,7 +2932,7 @@
             {
               "node_type": "item",
               "title": "[PVT] Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [paper",
-              "description": "] [code]",
+              "description": "whai362/PVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2960,7 +2960,7 @@
             {
               "node_type": "item",
               "title": "Rethinking and Improving Relative Position Encoding for Vision Transformer [paper",
-              "description": "] [code]",
+              "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2989,7 +2989,7 @@
             {
               "node_type": "item",
               "title": "[AutoFormer] AutoFormer: Searching Transformers for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3018,7 +3018,7 @@
             {
               "node_type": "item",
               "title": "[T2T-ViT] Training Vision Transformers from Scratch on ImageNet [paper",
-              "description": "] [code]",
+              "description": "yitu-opensource/T2T-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3043,7 +3043,7 @@
             {
               "node_type": "item",
               "title": "[TransReID] TransReID: Transformer-based Object Re-Identification [paper",
-              "description": "] [code]",
+              "description": "damo-cv/TransReID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3064,7 +3064,7 @@
             {
               "node_type": "item",
               "title": "[Segmenter] Segmenter: Transformer for Semantic Segmentation [paper",
-              "description": "] [code]",
+              "description": "rstrudel/segmenter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3088,7 +3088,7 @@
             {
               "node_type": "item",
               "title": "[PoinTr] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers (oral) [paper",
-              "description": "] [code]",
+              "description": "yuxumin/PoinTr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3116,7 +3116,7 @@
             {
               "node_type": "item",
               "title": "[3DETR] An End-to-End Transformer Model for 3D Object Detection [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/3detr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3137,7 +3137,7 @@
             {
               "node_type": "item",
               "title": "[Stark] Learning Spatio-Temporal Transformer for Visual Tracking [paper",
-              "description": "] [code]",
+              "description": "researchmm/Stark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3160,7 +3160,7 @@
             {
               "node_type": "item",
               "title": "[STTR] Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [paper",
-              "description": "] [code]",
+              "description": "mli0603/stereo-transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3187,7 +3187,7 @@
             {
               "node_type": "item",
               "title": "[LeViT] LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/LeViT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3208,7 +3208,7 @@
             {
               "node_type": "item",
               "title": "Paint Transformer: Feed Forward Neural Painting with Stroke Prediction (oral) ) [paper",
-              "description": "[code]",
+              "description": "Huage001/PaintTransformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3229,7 +3229,7 @@
             {
               "node_type": "item",
               "title": "[CrossViT] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [paper",
-              "description": "] [code]",
+              "description": "IBM/CrossViT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3255,7 +3255,7 @@
             {
               "node_type": "item",
               "title": "[Conditional DETR] Conditional DETR for Fast Training Convergence [paper",
-              "description": "] [code]",
+              "description": "Atten4Vis/ConditionalDETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3281,7 +3281,7 @@
             {
               "node_type": "item",
               "title": "[TransPose] TransPose: Keypoint Localization via Transformer [paper",
-              "description": "] [code]",
+              "description": "yangsenius/TransPose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3307,7 +3307,7 @@
             {
               "node_type": "item",
               "title": "[ICT] High-Fidelity Pluralistic Image Completion with Transformers [paper",
-              "description": "] [code]",
+              "description": "raywzy/ICT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3334,7 +3334,7 @@
             {
               "node_type": "item",
               "title": "[PiT] Rethinking Spatial Dimensions of Vision Transformers [paper",
-              "description": "] [code]",
+              "description": "naver-ai/pit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3355,7 +3355,7 @@
             {
               "node_type": "item",
               "title": "[SOTR] SOTR: Segmenting Objects with Transformers [paper",
-              "description": "] [code]",
+              "description": "easton-cau/SOTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3376,7 +3376,7 @@
             {
               "node_type": "item",
               "title": "[TransDepth] Transformer-Based Attention Networks for Continuous Pixel-Wise Prediction [paper",
-              "description": "] [code]",
+              "description": "ygjwd12345/TransDepth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3397,7 +3397,7 @@
             {
               "node_type": "item",
               "title": "Vision Transformer with Progressive Sampling [paper",
-              "description": "] [code]",
+              "description": "yuexy/PS-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3418,7 +3418,7 @@
             {
               "node_type": "item",
               "title": "A Latent Transformer for Disentangled Face Editing in Images and Videos [paper",
-              "description": "] [code]",
+              "description": "InterDigitalInc/latent-transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3439,7 +3439,7 @@
             {
               "node_type": "item",
               "title": "[TS-CAM] TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization [paper",
-              "description": "] [code]",
+              "description": "vasgaowei/TS-CAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3464,7 +3464,7 @@
             {
               "node_type": "item",
               "title": "[Visformer] Visformer: The Vision-friendly Transformer [paper",
-              "description": "] [code]",
+              "description": "danczs/Visformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3485,7 +3485,7 @@
             {
               "node_type": "item",
               "title": "[CWT] Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer [paper",
-              "description": "] [code]",
+              "description": "zhiheLu/CWT-for-FSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3506,7 +3506,7 @@
             {
               "node_type": "item",
               "title": "[PnP-DETR] PnP-DETR: Towards Efficient Visual Analysis with Transformers (ICCV) [paper",
-              "description": "] [code]",
+              "description": "twangnh/pnp-detr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3527,7 +3527,7 @@
             {
               "node_type": "item",
               "title": "[HiFT] HiFT: Hierarchical Feature Transformer for Aerial Tracking [paper",
-              "description": "] [code]",
+              "description": "vision4robotics/HiFT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3548,7 +3548,7 @@
             {
               "node_type": "item",
               "title": "[PPT-Net] Pyramid Point Cloud Transformer for Large-Scale Place Recognition [paper",
-              "description": "] [code]",
+              "description": "fpthink/PPT-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3590,7 +3590,7 @@
             {
               "node_type": "item",
               "title": "[PIT] PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation [paper",
-              "description": "] [code]",
+              "description": "sheepooo/PIT-Position-Invariant-Transform",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3611,7 +3611,7 @@
             {
               "node_type": "item",
               "title": "[SMCA] Fast Convergence of DETR with Spatially Modulated Co-Attention [paper",
-              "description": "] [code]",
+              "description": "abc403/SMCA-replication",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3632,7 +3632,7 @@
             {
               "node_type": "item",
               "title": "Transformer Interpretability Beyond Attention Visualization [paper",
-              "description": "] [code]",
+              "description": "hila-chefer/Transformer-Explainability",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3666,7 +3666,7 @@
             {
               "node_type": "item",
               "title": "[TransFuser] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [paper",
-              "description": "] [code]",
+              "description": "autonomousvision/transfuser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3692,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "[TransT] Transformer Tracking [paper",
-              "description": "] [code]",
+              "description": "chenxin-dlut/TransT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3713,7 +3713,7 @@
             {
               "node_type": "item",
               "title": "[CoFormer] Collaborative Transformers for Grounded Situation Recognition [paper",
-              "description": "] [code]",
+              "description": "jhcho99/CoFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3743,7 +3743,7 @@
             {
               "node_type": "item",
               "title": "[GANsformer] Generative Adversarial Transformers [paper",
-              "description": "] [code]",
+              "description": "dorarad/gansformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3772,7 +3772,7 @@
             {
               "node_type": "item",
               "title": "[Vision Transformer] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [paper",
-              "description": "] [code]",
+              "description": "google-research/vision_transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3793,7 +3793,7 @@
             {
               "node_type": "item",
               "title": "[Deformable DETR] Deformable DETR: Deformable Transformers for End-to-End Object Detection [paper",
-              "description": "] [code]",
+              "description": "fundamentalvision/Deformable-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3814,7 +3814,7 @@
             {
               "node_type": "item",
               "title": "[LAMBDANETWORKS] MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION [paper",
-              "description": "] [code]",
+              "description": "lucidrains/lambda-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3841,7 +3841,7 @@
             {
               "node_type": "item",
               "title": "[DPT] DPT: Deformable Patch-based Transformer for Visual Recognition [paper",
-              "description": "] [code]",
+              "description": "CASIA-LMC-Lab/DPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3862,7 +3862,7 @@
             {
               "node_type": "item",
               "title": "Token Shift Transformer for Video Classification [paper",
-              "description": "] [code]",
+              "description": "VideoNetworks/TokShift-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3883,7 +3883,7 @@
             {
               "node_type": "item",
               "title": "[MedT] Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "jeya-maria-jose/Medical-Transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3913,7 +3913,7 @@
             {
               "node_type": "item",
               "title": "[UTNet] UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "yhygao/UTNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3934,7 +3934,7 @@
             {
               "node_type": "item",
               "title": "[PNS-Net] Progressively Normalized Self-Attention Network for Video Polyp Segmentation [paper",
-              "description": "] [code]",
+              "description": "GewelsJI/PNS-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3960,7 +3960,7 @@
             {
               "node_type": "item",
               "title": "[MCTrans] Multi-Compound Transformer for Accurate Biomedical Image Segmentation [paper",
-              "description": "] [code]",
+              "description": "JiYuanFeng/MCTrans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3981,7 +3981,7 @@
             {
               "node_type": "item",
               "title": "[TransFusion] TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation [paper",
-              "description": "] [code]",
+              "description": "HowieMa/TransFusion-Pose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4008,7 +4008,7 @@
             {
               "node_type": "item",
               "title": "[GSRTR] Grounded Situation Recognition with Transformers [paper",
-              "description": "] [code]",
+              "description": "jhcho99/GSRTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4036,7 +4036,7 @@
             {
               "node_type": "item",
               "title": "[PTT] PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds [paper",
-              "description": "] [code]",
+              "description": "shanjiayao/PTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4062,7 +4062,7 @@
             {
               "node_type": "item",
               "title": "[YOGO] You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module (IROS) [paper",
-              "description": "] [code]",
+              "description": "chenfengxu714/YOGO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4083,7 +4083,7 @@
             {
               "node_type": "item",
               "title": "[LSTR] End-to-end Lane Shape Prediction with Transformers [paper",
-              "description": "] [code]",
+              "description": "liuruijin17/LSTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4111,7 +4111,7 @@
             {
               "node_type": "item",
               "title": "[DETR] End-to-End Object Detection with Transformers (ECCV) [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/detr",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4139,7 +4139,7 @@
             {
               "node_type": "item",
               "title": "[Awesome-Transformer-Attention",
-              "description": "]",
+              "description": "cmhungsteve/Awesome-Transformer-Attention",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:20:16.373Z",
+    "last_updated": "2026-10-03T04:30:02.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
