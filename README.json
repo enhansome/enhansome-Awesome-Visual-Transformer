@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5602,
+                "stars": 5603,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -98,7 +98,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 307,
+                "open_issues": 309,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3839,
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3244,
+                "stars": 3245,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -604,7 +604,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1928,7 +1928,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16095,
+                "stars": 16096,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2170,7 +2170,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2199,7 +2199,7 @@
                 "open_issues": 33,
                 "owner": "microsoft",
                 "repo": "CSWin-Transformer",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2828,7 +2828,7 @@
                 "open_issues": 46,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16095,
+                "stars": 16096,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2945,7 +2945,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "backbone",
                   "detection",
@@ -2973,7 +2973,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3002,7 +3002,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3101,7 +3101,7 @@
                 "open_issues": 84,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:10:50.516Z",
+    "last_updated": "2026-10-04T17:26:29.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
