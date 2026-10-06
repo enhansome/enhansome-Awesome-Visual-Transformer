@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5603,
+                "stars": 5605,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -98,10 +98,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:48:09Z",
-                "open_issues": 309,
+                "open_issues": 311,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3839,
+                "stars": 3841,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -329,7 +329,7 @@
                 "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "MaskFormer",
-                "stars": 1460,
+                "stars": 1459,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 812,
+                "stars": 811,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -934,7 +934,7 @@
                 "open_issues": 7,
                 "owner": "DengPingFan",
                 "repo": "Polyp-PVT",
-                "stars": 267,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1027,7 +1027,7 @@
                 "open_issues": 3,
                 "owner": "mlpc-ucsd",
                 "repo": "CoaT",
-                "stars": 235,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1918,7 +1918,7 @@
               "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is a collection of our NAS and Vision Transformer work.",
                 "homepage": null,
                 "id": 303342700,
@@ -1957,7 +1957,7 @@
                 "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 951,
+                "stars": 950,
                 "topics": [
                   "multi-object-tracking-segmentation",
                   "multiple-object-tracking",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16096,
+                "stars": 16094,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2160,7 +2160,7 @@
               "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is a collection of our NAS and Vision Transformer work.",
                 "homepage": null,
                 "id": 303342700,
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16096,
+                "stars": 16094,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2963,7 +2963,7 @@
               "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is a collection of our NAS and Vision Transformer work.",
                 "homepage": null,
                 "id": 303342700,
@@ -2992,7 +2992,7 @@
               "description": "microsoft/Cream",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This is a collection of our NAS and Vision Transformer work.",
                 "homepage": null,
                 "id": 303342700,
@@ -3129,7 +3129,7 @@
                 "open_issues": 25,
                 "owner": "facebookresearch",
                 "repo": "3detr",
-                "stars": 716,
+                "stars": 717,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1607,
+                "stars": 1606,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3785,7 +3785,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12731,
+                "stars": 12733,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4026,
+                "stars": 4027,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:26:29.137Z",
+    "last_updated": "2026-10-06T10:41:30.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
