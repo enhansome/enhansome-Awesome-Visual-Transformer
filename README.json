@@ -900,7 +900,7 @@
                 "open_issues": 15,
                 "owner": "davide-coccomini",
                 "repo": "Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection",
-                "stars": 271,
+                "stars": 270,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2650,
+                "stars": 2651,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -3150,7 +3150,7 @@
                 "open_issues": 70,
                 "owner": "researchmm",
                 "repo": "Stark",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "transformer"
                 ]
@@ -3645,7 +3645,7 @@
                 "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2017,
+                "stars": 2018,
                 "topics": [
                   "attention-matrix",
                   "attention-visualization",
@@ -4152,7 +4152,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5045,
+                "stars": 5044,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:52:23.404Z",
+    "last_updated": "2026-10-07T19:17:55.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
