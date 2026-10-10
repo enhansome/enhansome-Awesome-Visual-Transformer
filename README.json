@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3246,
+                "stars": 3247,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -736,7 +736,7 @@
                 "open_issues": 38,
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "medical-image-segmentation",
                   "pytorch",
@@ -1048,7 +1048,7 @@
                 "open_issues": 0,
                 "owner": "leoxiaobin",
                 "repo": "CvT",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3056,7 +3056,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1055,
+                "stars": 1056,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3785,7 +3785,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12736,
+                "stars": 12738,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3806,7 +3806,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4027,
+                "stars": 4028,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3827,7 +3827,7 @@
                 "open_issues": 13,
                 "owner": "lucidrains",
                 "repo": "lambda-networks",
-                "stars": 1528,
+                "stars": 1529,
                 "topics": [
                   "artificial-intelligence",
                   "attention",
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15352,
+                "stars": 15351,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:45:03.679Z",
+    "last_updated": "2026-10-10T17:46:21.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
