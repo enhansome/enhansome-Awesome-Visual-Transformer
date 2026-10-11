@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5606,
+                "stars": 5607,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2421,
+                "stars": 2422,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -934,7 +934,7 @@
                 "open_issues": 7,
                 "owner": "DengPingFan",
                 "repo": "Polyp-PVT",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1003,7 +1003,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-10-12T11:01:46Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "SJTU-LuHe",
                 "repo": "TransVOD",
                 "stars": 250,
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2654,
+                "stars": 2655,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2199,7 +2199,7 @@
                 "open_issues": 33,
                 "owner": "microsoft",
                 "repo": "CSWin-Transformer",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3645,7 +3645,7 @@
                 "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "attention-matrix",
                   "attention-visualization",
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1608,
+                "stars": 1607,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3785,7 +3785,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12738,
+                "stars": 12739,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15350,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4152,7 +4152,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5043,
+                "stars": 5045,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:46:21.838Z",
+    "last_updated": "2026-10-11T17:59:27.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
