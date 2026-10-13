@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7432,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3671,
+                "stars": 3674,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2849,
+                "stars": 2851,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2421,
+                "stars": 2419,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -346,7 +346,7 @@
                 "id": 654209013,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:03:40Z",
+                "last_commit": "2026-10-13T15:18:11Z",
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
@@ -465,7 +465,7 @@
                 "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "xcit",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1957,7 +1957,7 @@
                 "open_issues": 23,
                 "owner": "MasterBin-IIAU",
                 "repo": "Unicorn",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "multi-object-tracking-segmentation",
                   "multiple-object-tracking",
@@ -2086,7 +2086,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16094,
+                "stars": 16095,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2116,7 +2116,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8362,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2749,7 +2749,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4422,
+                "stars": 4423,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2915,7 +2915,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16094,
+                "stars": 16095,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2945,7 +2945,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1908,
+                "stars": 1909,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3221,7 +3221,7 @@
                 "open_issues": 2,
                 "owner": "Huage001",
                 "repo": "PaintTransformer",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3785,7 +3785,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12740,
+                "stars": 12742,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3896,7 +3896,7 @@
                 "open_issues": 37,
                 "owner": "jeya-maria-jose",
                 "repo": "Medical-Transformer",
-                "stars": 861,
+                "stars": 860,
                 "topics": [
                   "attention",
                   "deep-learning",
@@ -4096,7 +4096,7 @@
                 "open_issues": 34,
                 "owner": "liuruijin17",
                 "repo": "LSTR",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4152,7 +4152,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5045,
+                "stars": 5046,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:41:33.666Z",
+    "last_updated": "2026-10-13T19:49:53.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4198,7 +4198,7 @@
       "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3588,
+      "stars": 3589,
       "topics": [
         "detr",
         "transformer",
