@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7433,
+                "stars": 7434,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5611,
+                "stars": 5612,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3680,
+                "stars": 3681,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2851,
+                "stars": 2852,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -241,7 +241,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2023-12-08T13:44:48Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
                 "stars": 1802,
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1665,
+                "stars": 1666,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -347,7 +347,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T14:38:16Z",
-                "open_issues": 8,
+                "open_issues": 18,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
                 "stars": 1063,
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2659,
+                "stars": 2660,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2749,7 +2749,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4423,
+                "stars": 4424,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15348,
+                "stars": 15349,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:19:17.946Z",
+    "last_updated": "2026-10-17T16:17:52.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
