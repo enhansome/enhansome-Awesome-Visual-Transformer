@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3681,
+                "stars": 3682,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3246,
+                "stars": 3247,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -347,7 +347,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T14:38:16Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
                 "stars": 1063,
@@ -2446,6 +2446,36 @@
             },
             {
               "node_type": "item",
+              "title": "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening [paper",
+              "description": "wgcban/HyperTransformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR'22] HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening",
+                "homepage": "https://www.wgcban.com/research#h.ar24vwqlm021",
+                "id": 431189304,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-10-19T13:52:29Z",
+                "open_issues": 10,
+                "owner": "wgcban",
+                "repo": "HyperTransformer",
+                "stars": 142,
+                "topics": [
+                  "attention-mechanism",
+                  "deep-learning",
+                  "hyperspectral-imaging",
+                  "image-fusion",
+                  "multispectral-images",
+                  "pansharpening",
+                  "super-resolution",
+                  "transformers"
+                ]
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "[RVT] Towards Robust Vision Transformer [paper",
               "description": "vtddggg/Robust-Vision-Transformer",
               "children": [],
@@ -2462,36 +2492,6 @@
                 "repo": "Robust-Vision-Transformer",
                 "stars": 142,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening [paper",
-              "description": "wgcban/HyperTransformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR'22] HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening",
-                "homepage": "https://www.wgcban.com/research#h.ar24vwqlm021",
-                "id": 431189304,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-10-19T13:52:29Z",
-                "open_issues": 10,
-                "owner": "wgcban",
-                "repo": "HyperTransformer",
-                "stars": 141,
-                "topics": [
-                  "attention-mechanism",
-                  "deep-learning",
-                  "hyperspectral-imaging",
-                  "image-fusion",
-                  "multispectral-images",
-                  "pansharpening",
-                  "super-resolution",
-                  "transformers"
-                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2781,7 +2781,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4124,7 +4124,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15349,
+                "stars": 15348,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:17:52.263Z",
+    "last_updated": "2026-10-18T16:27:34.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
