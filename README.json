@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7437,
+                "stars": 7436,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5614,
+                "stars": 5616,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -101,7 +101,7 @@
                 "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3844,
+                "stars": 3846,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2420,
+                "stars": 2421,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -346,11 +346,11 @@
                 "id": 654209013,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T14:38:16Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-21T13:16:53Z",
+                "open_issues": 6,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1066,
+                "stars": 1068,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -375,6 +375,35 @@
             },
             {
               "node_type": "item",
+              "title": "[Uformer] Uformer: A General U-Shaped Transformer for Image Restoration [paper",
+              "description": "ZhendongWang6/Uformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2022] Official implementation of the paper \"Uformer: A General U-Shaped Transformer for Image Restoration\".",
+                "homepage": null,
+                "id": 373423349,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-03-21T08:08:03Z",
+                "open_issues": 49,
+                "owner": "ZhendongWang6",
+                "repo": "Uformer",
+                "stars": 948,
+                "topics": [
+                  "deep-learning",
+                  "image-deblurring",
+                  "image-demoireing",
+                  "image-denoising",
+                  "image-deraining",
+                  "image-restoration",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "[VOLO] VOLO: Vision Outlooker for Visual Recognition [paper",
               "description": "sail-sg/volo",
               "children": [],
@@ -391,35 +420,6 @@
                 "repo": "volo",
                 "stars": 947,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[Uformer] Uformer: A General U-Shaped Transformer for Image Restoration [paper",
-              "description": "ZhendongWang6/Uformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2022] Official implementation of the paper \"Uformer: A General U-Shaped Transformer for Image Restoration\".",
-                "homepage": null,
-                "id": 373423349,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-03-21T08:08:03Z",
-                "open_issues": 49,
-                "owner": "ZhendongWang6",
-                "repo": "Uformer",
-                "stars": 947,
-                "topics": [
-                  "deep-learning",
-                  "image-deblurring",
-                  "image-demoireing",
-                  "image-denoising",
-                  "image-deraining",
-                  "image-restoration",
-                  "pytorch"
-                ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2662,
+                "stars": 2664,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -3056,7 +3056,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1055,
+                "stars": 1057,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3077,7 +3077,7 @@
                 "open_issues": 21,
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "segmentation",
                   "transformer"
@@ -3173,7 +3173,7 @@
                 "open_issues": 43,
                 "owner": "mli0603",
                 "repo": "stereo-transformer",
-                "stars": 706,
+                "stars": 705,
                 "topics": [
                   "pytorch",
                   "stereo-depth-estimation",
@@ -3540,7 +3540,7 @@
                 "open_issues": 4,
                 "owner": "vision4robotics",
                 "repo": "HiFT",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1608,
+                "stars": 1609,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3785,7 +3785,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12757,
+                "stars": 12756,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T17:55:00.200Z",
+    "last_updated": "2026-10-21T17:58:39.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4198,7 +4198,7 @@
       "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3590,
+      "stars": 3589,
       "topics": [
         "detr",
         "transformer",
