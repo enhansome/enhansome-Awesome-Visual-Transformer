@@ -101,7 +101,7 @@
                 "open_issues": 313,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3846,
+                "stars": 3847,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3692,
+                "stars": 3694,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3248,
+                "stars": 3249,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -347,7 +347,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T13:16:53Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
                 "stars": 1068,
@@ -761,7 +761,7 @@
                 "open_issues": 7,
                 "owner": "zihangJiang",
                 "repo": "TokenLabeling",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "imagenet",
                   "lv-vit",
@@ -1984,7 +1984,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 692,
+                "stars": 693,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2828,7 +2828,7 @@
                 "open_issues": 46,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -3056,7 +3056,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1057,
+                "stars": 1060,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3101,7 +3101,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3129,7 +3129,7 @@
                 "open_issues": 25,
                 "owner": "facebookresearch",
                 "repo": "3detr",
-                "stars": 717,
+                "stars": 718,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3785,7 +3785,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12756,
+                "stars": 12758,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:58:39.338Z",
+    "last_updated": "2026-10-22T17:55:22.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
