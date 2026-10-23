@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5616,
+                "stars": 5617,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3694,
+                "stars": 3695,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2854,
+                "stars": 2857,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1804,
+                "stars": 1807,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -278,7 +278,7 @@
                 "open_issues": 15,
                 "owner": "VITA-Group",
                 "repo": "TransGAN",
-                "stars": 1694,
+                "stars": 1693,
                 "topics": [
                   "gan",
                   "pytorch",
@@ -350,7 +350,7 @@
                 "open_issues": 8,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1068,
+                "stars": 1067,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -816,7 +816,7 @@
                 "open_issues": 18,
                 "owner": "dingmyu",
                 "repo": "davit",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1984,7 +1984,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2137,7 +2137,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2664,
+                "stars": 2665,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2777,7 +2777,7 @@
                 "id": 272853727,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-18T12:08:30Z",
+                "last_commit": "2026-10-23T12:28:05Z",
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
@@ -2828,7 +2828,7 @@
                 "open_issues": 46,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -3645,7 +3645,7 @@
                 "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2020,
+                "stars": 2021,
                 "topics": [
                   "attention-matrix",
                   "attention-visualization",
@@ -3679,7 +3679,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1609,
+                "stars": 1608,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:55:22.165Z",
+    "last_updated": "2026-10-23T17:49:54.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
