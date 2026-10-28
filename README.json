@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7438,
+                "stars": 7440,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4348,
+                "stars": 4347,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1809,
+                "stars": 1811,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -329,7 +329,7 @@
                 "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "MaskFormer",
-                "stars": 1459,
+                "stars": 1458,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -346,7 +346,7 @@
                 "id": 654209013,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:27:51Z",
+                "last_commit": "2026-10-28T09:52:30Z",
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
@@ -2087,7 +2087,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16089,
+                "stars": 16087,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2221,7 +2221,7 @@
                 "open_issues": 22,
                 "owner": "diyiiyiii",
                 "repo": "StyTR-2",
-                "stars": 445,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2916,7 +2916,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16089,
+                "stars": 16087,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2943,7 +2943,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-10-27T08:47:14Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
                 "stars": 1905,
@@ -3057,7 +3057,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3475,7 +3475,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-02-10T05:36:58Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "danczs",
                 "repo": "Visformer",
                 "stars": 136,
@@ -3680,7 +3680,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3786,7 +3786,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12762,
+                "stars": 12763,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4125,7 +4125,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15349,
+                "stars": 15348,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4187,7 +4187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:38:48.928Z",
+    "last_updated": "2026-10-28T18:46:56.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4199,7 +4199,7 @@
       "open_issues": 3,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3590,
+      "stars": 3591,
       "topics": [
         "detr",
         "transformer",
