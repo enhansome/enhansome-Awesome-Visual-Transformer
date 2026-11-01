@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7441,
+                "stars": 7442,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5622,
+                "stars": 5621,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3703,
+                "stars": 3704,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3247,
+                "stars": 3248,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -390,7 +390,7 @@
                 "open_issues": 49,
                 "owner": "ZhendongWang6",
                 "repo": "Uformer",
-                "stars": 948,
+                "stars": 949,
                 "topics": [
                   "deep-learning",
                   "image-deblurring",
@@ -887,6 +887,27 @@
             },
             {
               "node_type": "item",
+              "title": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [paper",
+              "description": "DengPingFan/Polyp-PVT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, AIR 2023.",
+                "homepage": null,
+                "id": 389960740,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-11-01T06:41:31Z",
+                "open_issues": 7,
+                "owner": "DengPingFan",
+                "repo": "Polyp-PVT",
+                "stars": 270,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "[CrossEfficientViT] Combining EfficientNet and Vision Transformers for Video Deepfake Detection [paper",
               "description": "davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection",
               "children": [],
@@ -916,27 +937,6 @@
                   "pytorch",
                   "vision-transformer"
                 ]
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [paper",
-              "description": "DengPingFan/Polyp-PVT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, AIR 2023.",
-                "homepage": null,
-                "id": 389960740,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-11-01T06:41:31Z",
-                "open_issues": 7,
-                "owner": "DengPingFan",
-                "repo": "Polyp-PVT",
-                "stars": 269,
-                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
             },
@@ -1985,7 +1985,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2190,7 +2190,7 @@
               "description": "microsoft/CSWin-Transformer",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped, CVPR 2022",
                 "homepage": null,
                 "id": 382210636,
@@ -2803,7 +2803,7 @@
                 "open_issues": 15,
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 903,
+                "stars": 902,
                 "topics": [
                   "computer-vision",
                   "object-detection",
@@ -3786,7 +3786,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12760,
+                "stars": 12764,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3828,7 +3828,7 @@
                 "open_issues": 13,
                 "owner": "lucidrains",
                 "repo": "lambda-networks",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": [
                   "artificial-intelligence",
                   "attention",
@@ -4187,7 +4187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:37:42.825Z",
+    "last_updated": "2026-11-01T18:22:30.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
