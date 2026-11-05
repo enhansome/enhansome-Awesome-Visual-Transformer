@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5623,
+                "stars": 5624,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -101,7 +101,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3847,
+                "stars": 3846,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -1929,7 +1929,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1846,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2087,7 +2087,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16083,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2672,
+                "stars": 2671,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2171,7 +2171,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1846,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -2221,7 +2221,7 @@
                 "open_issues": 22,
                 "owner": "diyiiyiii",
                 "repo": "StyTR-2",
-                "stars": 444,
+                "stars": 443,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2634,7 +2634,7 @@
                 "open_issues": 15,
                 "owner": "Sense-X",
                 "repo": "UniFormer",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "image-classification",
                   "object-detection",
@@ -2750,7 +2750,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4426,
+                "stars": 4427,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2803,7 +2803,7 @@
                 "open_issues": 15,
                 "owner": "hustvl",
                 "repo": "YOLOS",
-                "stars": 902,
+                "stars": 901,
                 "topics": [
                   "computer-vision",
                   "object-detection",
@@ -2829,7 +2829,7 @@
                 "open_issues": 46,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -2916,7 +2916,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16083,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2974,7 +2974,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1846,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3003,7 +3003,7 @@
                 "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "Cream",
-                "stars": 1846,
+                "stars": 1845,
                 "topics": [
                   "automl",
                   "efficiency",
@@ -3680,7 +3680,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1612,
+                "stars": 1613,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3786,7 +3786,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12768,
+                "stars": 12769,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3807,7 +3807,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4028,
+                "stars": 4029,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4125,7 +4125,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15345,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4187,7 +4187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:22:36.650Z",
+    "last_updated": "2026-11-05T20:35:16.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
