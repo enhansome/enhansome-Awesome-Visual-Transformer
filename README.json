@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3706,
+                "stars": 3707,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -223,7 +223,7 @@
                 "open_issues": 38,
                 "owner": "isl-org",
                 "repo": "DPT",
-                "stars": 2328,
+                "stars": 2329,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -278,7 +278,7 @@
                 "open_issues": 15,
                 "owner": "VITA-Group",
                 "repo": "TransGAN",
-                "stars": 1693,
+                "stars": 1694,
                 "topics": [
                   "gan",
                   "pytorch",
@@ -1985,7 +1985,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2750,7 +2750,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4427,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3680,7 +3680,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1613,
+                "stars": 1612,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3786,7 +3786,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12769,
+                "stars": 12770,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4125,7 +4125,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15343,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4150,7 +4150,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-30T06:57:18Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
                 "stars": 5047,
@@ -4187,7 +4187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:55:20.414Z",
+    "last_updated": "2026-11-07T17:59:24.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
@@ -4196,10 +4196,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-01-07T01:59:49Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "dk-liang",
       "repo": "Awesome-Visual-Transformer",
-      "stars": 3592,
+      "stars": 3591,
       "topics": [
         "detr",
         "transformer",
