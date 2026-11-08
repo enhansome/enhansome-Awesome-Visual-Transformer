@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5625,
+                "stars": 5626,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4346,
+                "stars": 4345,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -440,7 +440,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 812,
+                "stars": 813,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2671,
+                "stars": 2672,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -4187,7 +4187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:59:24.110Z",
+    "last_updated": "2026-11-08T18:18:27.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
