@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7441,
+                "stars": 7443,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5628,
+                "stars": 5627,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3249,
+                "stars": 3250,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -440,7 +440,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 813,
+                "stars": 814,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -1154,7 +1154,7 @@
                 "open_issues": 9,
                 "owner": "xlliu7",
                 "repo": "TadTR",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "action-recognition",
                   "pytorch",
@@ -1985,7 +1985,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2117,7 +2117,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8358,
+                "stars": 8359,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2242,7 +2242,7 @@
                 "open_issues": 26,
                 "owner": "hustvl",
                 "repo": "TopFormer",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "mobile-semantic-segmentation",
                   "semantic-segmentation"
@@ -2750,7 +2750,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4429,
+                "stars": 4430,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3229,32 +3229,6 @@
             },
             {
               "node_type": "item",
-              "title": "[CrossViT] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [paper",
-              "description": "IBM/CrossViT",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Official implementation of CrossViT. https://arxiv.org/abs/2103.14899",
-                "homepage": null,
-                "id": 391188495,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2022-01-12T15:13:20Z",
-                "open_issues": 7,
-                "owner": "IBM",
-                "repo": "CrossViT",
-                "stars": 417,
-                "topics": [
-                  "computer-vision",
-                  "deep-learning",
-                  "multi-scale-features",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
               "title": "[Conditional DETR] Conditional DETR for Fast Training Convergence [paper",
               "description": "Atten4Vis/ConditionalDETR",
               "children": [],
@@ -3269,7 +3243,7 @@
                 "open_issues": 11,
                 "owner": "Atten4Vis",
                 "repo": "ConditionalDETR",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "detr",
                   "iccv2021",
@@ -3786,7 +3760,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12770,
+                "stars": 12771,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4125,7 +4099,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15344,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4187,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:56:57.081Z",
+    "last_updated": "2026-11-10T20:24:54.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
