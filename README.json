@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7444,
+                "stars": 7445,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3713,
+                "stars": 3715,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2864,
+                "stars": 2865,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -748,6 +748,33 @@
             },
             {
               "node_type": "item",
+              "title": "[Meta-DETR] Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning [paper",
+              "description": "ZhangGongjie/Meta-DETR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[T-PAMI  2022]  Meta-DETR for Few-Shot Object Detection: Official PyTorch Implementation",
+                "homepage": null,
+                "id": 350280075,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-08-21T08:09:08Z",
+                "open_issues": 58,
+                "owner": "ZhangGongjie",
+                "repo": "Meta-DETR",
+                "stars": 436,
+                "topics": [
+                  "computer-vision",
+                  "few-shot-object-detection",
+                  "meta-learning",
+                  "object-detection",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-08-28T22:59:42.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet [paper",
               "description": "zihangJiang/TokenLabeling",
               "children": [],
@@ -770,33 +797,6 @@
                   "segmentation",
                   "transformer",
                   "vision"
-                ]
-              },
-              "first_seen": "2026-08-28T22:59:42.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[Meta-DETR] Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning [paper",
-              "description": "ZhangGongjie/Meta-DETR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[T-PAMI  2022]  Meta-DETR for Few-Shot Object Detection: Official PyTorch Implementation",
-                "homepage": null,
-                "id": 350280075,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-08-21T08:09:08Z",
-                "open_issues": 58,
-                "owner": "ZhangGongjie",
-                "repo": "Meta-DETR",
-                "stars": 435,
-                "topics": [
-                  "computer-vision",
-                  "few-shot-object-detection",
-                  "meta-learning",
-                  "object-detection",
-                  "pytorch"
                 ]
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16079,
+                "stars": 16080,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2826,7 +2826,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-09T02:52:41Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
                 "stars": 358,
@@ -2916,7 +2916,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16079,
+                "stars": 16080,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -3102,7 +3102,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3243,7 +3243,7 @@
                 "open_issues": 11,
                 "owner": "Atten4Vis",
                 "repo": "ConditionalDETR",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "detr",
                   "iccv2021",
@@ -3654,7 +3654,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1612,
+                "stars": 1614,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3760,7 +3760,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12772,
+                "stars": 12773,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4099,7 +4099,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15345,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4127,7 +4127,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5048,
+                "stars": 5047,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:44:55.957Z",
+    "last_updated": "2026-11-13T20:26:21.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
