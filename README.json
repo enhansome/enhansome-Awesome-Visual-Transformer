@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3252,
+                "stars": 3251,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -350,7 +350,7 @@
                 "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -3680,7 +3680,7 @@
                 "open_issues": 60,
                 "owner": "chenxin-dlut",
                 "repo": "TransT",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:26:21.034Z",
+    "last_updated": "2026-11-14T18:42:17.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
