@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5627,
+                "stars": 5628,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3715,
+                "stars": 3717,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -626,7 +626,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "StyleSwin",
-                "stars": 543,
+                "stars": 542,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2675,
+                "stars": 2676,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2782,7 +2782,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3057,7 +3057,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3757,10 +3757,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T09:57:36Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12773,
+                "stars": 12774,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4028,
+                "stars": 4029,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:42:17.430Z",
+    "last_updated": "2026-11-15T19:19:09.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
