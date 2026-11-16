@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5628,
+                "stars": 5627,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4345,
+                "stars": 4346,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2418,
+                "stars": 2420,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -466,7 +466,7 @@
                 "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "xcit",
-                "stars": 682,
+                "stars": 683,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -584,7 +584,7 @@
                 "open_issues": 25,
                 "owner": "zczcwh",
                 "repo": "PoseFormer",
-                "stars": 584,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -605,7 +605,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -716,7 +716,7 @@
                 "open_issues": 13,
                 "owner": "facebookresearch",
                 "repo": "mvit",
-                "stars": 456,
+                "stars": 457,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -737,7 +737,7 @@
                 "open_issues": 38,
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "medical-image-segmentation",
                   "pytorch",
@@ -817,7 +817,7 @@
                 "open_issues": 18,
                 "owner": "dingmyu",
                 "repo": "davit",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1985,7 +1985,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 703,
+                "stars": 705,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2117,7 +2117,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8360,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2676,
+                "stars": 2677,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2829,7 +2829,7 @@
                 "open_issues": 48,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -3102,7 +3102,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 874,
+                "stars": 876,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3130,7 +3130,7 @@
                 "open_issues": 25,
                 "owner": "facebookresearch",
                 "repo": "3detr",
-                "stars": 718,
+                "stars": 719,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12774,
+                "stars": 12777,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4029,
+                "stars": 4031,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3871,7 +3871,7 @@
                 "open_issues": 37,
                 "owner": "jeya-maria-jose",
                 "repo": "Medical-Transformer",
-                "stars": 859,
+                "stars": 860,
                 "topics": [
                   "attention",
                   "deep-learning",
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:19:09.939Z",
+    "last_updated": "2026-11-16T22:50:07.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
