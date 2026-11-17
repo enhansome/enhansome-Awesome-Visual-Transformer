@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5627,
+                "stars": 5630,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3251,
+                "stars": 3253,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2865,
+                "stars": 2864,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1669,
+                "stars": 1670,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -347,10 +347,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-09T11:07:10Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
-                "stars": 1071,
+                "stars": 1070,
                 "topics": [
                   "3d",
                   "3dv2024",
@@ -626,7 +626,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "StyleSwin",
-                "stars": 542,
+                "stars": 541,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1070,7 +1070,7 @@
                 "open_issues": 22,
                 "owner": "hujiecpp",
                 "repo": "ISTR",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2782,7 +2782,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "noah-research",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3057,7 +3057,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1068,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12777,
+                "stars": 12776,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4031,
+                "stars": 4032,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4099,7 +4099,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15344,
+                "stars": 15343,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:50:07.423Z",
+    "last_updated": "2026-11-17T21:40:22.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
