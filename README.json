@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7446,
+                "stars": 7448,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5629,
+                "stars": 5632,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3716,
+                "stars": 3717,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3252,
+                "stars": 3251,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1247,7 +1247,7 @@
                 "open_issues": 4,
                 "owner": "changlin31",
                 "repo": "BossNAS",
-                "stars": 143,
+                "stars": 142,
                 "topics": [
                   "automl",
                   "hybrid-neural-network",
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2677,
+                "stars": 2678,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2826,7 +2826,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-09T02:52:41Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
                 "stars": 359,
@@ -3654,7 +3654,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12778,
+                "stars": 12779,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4032,
+                "stars": 4031,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4127,7 +4127,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5047,
+                "stars": 5046,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:19:22.106Z",
+    "last_updated": "2026-11-19T21:21:55.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
