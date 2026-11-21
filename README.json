@@ -156,7 +156,7 @@
                 "open_issues": 138,
                 "owner": "Beckschen",
                 "repo": "TransUNet",
-                "stars": 3250,
+                "stars": 3251,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -1985,7 +1985,7 @@
                 "open_issues": 54,
                 "owner": "botaoye",
                 "repo": "OSTrack",
-                "stars": 705,
+                "stars": 706,
                 "topics": [
                   "tracking",
                   "transformer"
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2678,
+                "stars": 2679,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4031,
+                "stars": 4030,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:00:05.011Z",
+    "last_updated": "2026-11-21T20:01:04.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
