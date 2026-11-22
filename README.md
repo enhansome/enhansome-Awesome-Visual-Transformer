@@ -27,13 +27,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ### arXiv papers
 
 * **\[MViT]** Multiscale Vision Transformers \[[paper](https://arxiv.org/abs/2104.11227)] \[[code](https://github.com/facebookresearch/SlowFast) ⭐ 7,447 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
-* **\[SwinIR]** SwinIR: Image Restoration Using Swin Transformer \[[paper](https://arxiv.org/abs/2108.10257)] \[[code](https://github.com/JingyunLiang/SwinIR) ⭐ 5,632 | 🐛 81 | 🌐 Python | 📅 2024-05-14]
+* **\[SwinIR]** SwinIR: Image Restoration Using Swin Transformer \[[paper](https://arxiv.org/abs/2108.10257)] \[[code](https://github.com/JingyunLiang/SwinIR) ⭐ 5,633 | 🐛 81 | 🌐 Python | 📅 2024-05-14]
 * **\[DeiT]** Training data-efficient image transformers & distillation through attention \[[paper](https://arxiv.org/abs/2012.12877)] \[[code](https://github.com/facebookresearch/deit) ⚠️ Archived]
 * TokenLearner: What Can 8 Learned Tokens Do for Images and Videos? \[[paper](https://arxiv.org/abs/2106.11297)] \[[code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner) ⭐ 3,848 | 🐛 314 | 🌐 Python | 📅 2026-10-31]
 * **\[SegFormer]** SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers \[[paper](https://arxiv.org/abs/2105.15203)] \[[code](https://github.com/NVlabs/SegFormer) ⭐ 3,718 | 🐛 110 | 🌐 Python | 📅 2024-08-02]
 * **\[TransUNet]** TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation \[[paper](https://arxiv.org/abs/2102.04306)] \[[code](https://github.com/Beckschen/TransUNet) ⭐ 3,251 | 🐛 138 | 🌐 Python | 📅 2026-02-25]
 * DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection \[[paper](https://arxiv.org/pdf/2203.03605.pdf)] \[[code](https://github.com/IDEACVR/DINO) ⭐ 2,863 | 🐛 154 | 🌐 Python | 📅 2024-07-31]
-* **\[Swin-Unet]** Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation \[[paper](https://arxiv.org/abs/2105.05537)] \[[code](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,422 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
+* **\[Swin-Unet]** Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation \[[paper](https://arxiv.org/abs/2105.05537)] \[[code](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,424 | 🐛 94 | 🌐 Python | 📅 2025-05-09]
 * **\[DPT]** Vision Transformers for Dense Prediction \[[paper](https://arxiv.org/abs/2103.13413)] \[[code](https://github.com/intel-isl/DPT) ⚠️ Archived]
 * **\[VideoMAE]** VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training \[[paper](https://arxiv.org/abs/2203.12602)] \[[code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,816 | 🐛 52 | 🌐 Python | 📅 2023-12-08]
 * **\[TransGAN]** TransGAN: Two Transformers Can Make One Strong GAN \[[paper](https://arxiv.org/abs/2102.07074)] \[[code](https://github.com/VITA-Group/TransGAN) ⭐ 1,694 | 🐛 15 | 🌐 Python | 📅 2022-11-03]
@@ -42,7 +42,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 * **\[Superpoint Transformer]** Efficient 3D Semantic Segmentation with Superpoint Transformer \[[paper](https://arxiv.org/abs/2306.08045)] \[[code](https://github.com/drprojects/superpoint_transformer) ⭐ 1,070 | 🐛 5 | 🌐 Python | 📅 2026-11-09]
 * **\[Uformer]** Uformer: A General U-Shaped Transformer for Image Restoration \[[paper](https://arxiv.org/abs/2106.03106)] \[[code](https://github.com/ZhendongWang6/Uformer) ⭐ 950 | 🐛 49 | 🌐 Python | 📅 2025-03-21]
 * **\[VOLO]** VOLO: Vision Outlooker for Visual Recognition \[[paper](https://arxiv.org/abs/2106.13112)] \[[code](https://github.com/sail-sg/volo) ⭐ 947 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2022-09-18]
-* **\[MOTR]** MOTR: End-to-End Multiple-Object Tracking with TRansformer \[[paper](https://arxiv.org/abs/2105.03247)] \[[code](https://github.com/megvii-model/MOTR) ⭐ 815 | 🐛 33 | 🌐 Python | 📅 2024-01-15]
+* **\[MOTR]** MOTR: End-to-End Multiple-Object Tracking with TRansformer \[[paper](https://arxiv.org/abs/2105.03247)] \[[code](https://github.com/megvii-model/MOTR) ⭐ 816 | 🐛 33 | 🌐 Python | 📅 2024-01-15]
 * **\[XCiT]** XCiT: Cross-Covariance Image Transformers \[[paper](https://arxiv.org/pdf/2106.09681.pdf)] \[[code](https://github.com/facebookresearch/xcit) ⚠️ Archived]
 * Self-Supervised Learning with Swin Transformers \[[paper](https://arxiv.org/abs/2105.04553)] \[[code](https://github.com/SwinTransformer/Transformer-SSL) ⭐ 673 | 🐛 17 | 🌐 Python | 📅 2021-05-13]
 * **\[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer \[[paper](https://arxiv.org/abs/2012.15460)] \[[code](https://github.com/PeizeSun/TransTrack) ⭐ 671 | 🐛 23 | 🌐 Python | 📅 2023-04-30]
@@ -54,7 +54,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 * Contextual Transformer Networks for Visual Recognition \[[paper](https://arxiv.org/pdf/2107.12292.pdf)] \[[code](https://github.com/JDAI-CV/CoTNet) ⭐ 539 | 🐛 17 | 🌐 Python | 📅 2021-08-08]
 * **\[AOT-GAN]** Aggregated Contextual Transformations for High-Resolution Image Inpainting \[[paper](https://arxiv.org/abs/2104.01431)] \[[code](https://github.com/researchmm/AOT-GAN-for-Inpainting) ⭐ 532 | 🐛 18 | 🌐 Python | 📅 2024-05-08]
 * **\[MViTv2]** Improved Multiscale Vision Transformers for Classification and Detection \[[paper](https://arxiv.org/pdf/2112.01526.pdf)] \[[code](https://github.com/facebookresearch/mvit) ⚠️ Archived]
-* **\[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer \[[paper](https://arxiv.org/abs/2103.04430)] \[[code](https://github.com/Wenxuan-1119/TransBTS) ⭐ 453 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
+* **\[TransBTS]** TransBTS: Multimodal Brain Tumor Segmentation Using Transformer \[[paper](https://arxiv.org/abs/2103.04430)] \[[code](https://github.com/Wenxuan-1119/TransBTS) ⭐ 454 | 🐛 38 | 🌐 Python | 📅 2024-03-11]
 * **\[Meta-DETR]** Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning \[[paper](https://arxiv.org/abs/2103.11731) \[[code](https://github.com/ZhangGongjie/Meta-DETR) ⭐ 436 | 🐛 58 | 🌐 Python | 📅 2022-08-21]
 * Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet \[[paper](https://arxiv.org/abs/2104.10858)] \[[code](https://github.com/zihangJiang/TokenLabeling) ⭐ 435 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2023-09-05]
 * **\[DaViT]** DaViT: Dual Attention Vision Transformers
@@ -313,7 +313,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 * Swin Transformer V2: Scaling Up Capacity and Resolution \[[paper](https://arxiv.org/abs/2111.09883)] [\[code\]](https://github.com/microsoft/Swin-Transformer) ⚠️ Archived
 * **\[MAE]** Masked Autoencoders Are Scalable Vision Learners \[[paper](https://arxiv.org/abs/2111.06377)] [\[code\]](https://github.com/facebookresearch/mae) ⚠️ Archived
-* **\[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration \[[paper](https://arxiv.org/abs/2111.09881)] \[[code](https://github.com/swz30/Restormer) ⭐ 2,679 | 🐛 56 | 🌐 Python | 📅 2025-10-23]
+* **\[Restormer]** Restormer: Efficient Transformer for High-Resolution Image Restoration \[[paper](https://arxiv.org/abs/2111.09881)] \[[code](https://github.com/swz30/Restormer) ⭐ 2,680 | 🐛 56 | 🌐 Python | 📅 2025-10-23]
 * **\[MiniViT]** MiniViT: Compressing Vision Transformers with Weight Multiplexing \[[paper](https://arxiv.org/abs/2204.07154)] \[[code](https://github.com/microsoft/Cream/tree/main/MiniViT) ⚠️ Archived]
 * CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows \[[paper](https://arxiv.org/abs/2107.00652)] \[[code](https://github.com/microsoft/CSWin-Transformer) ⚠️ Archived]
 * **\[StyTr2]** StyTr2: Image Style Transfer with Transformers \[[paper](https://arxiv.org/pdf/2105.14576.pdf)] \[[code](https://github.com/diyiiyiii/StyTR-2) ⭐ 443 | 🐛 22 | 🌐 Python | 📅 2024-05-17]
@@ -581,4 +581,4 @@ Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

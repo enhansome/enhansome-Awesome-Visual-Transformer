@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5632,
+                "stars": 5633,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2422,
+                "stars": 2424,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -440,7 +440,7 @@
                 "open_issues": 33,
                 "owner": "megvii-research",
                 "repo": "MOTR",
-                "stars": 815,
+                "stars": 816,
                 "topics": [
                   "end-to-end",
                   "multi-object-tracking",
@@ -737,7 +737,7 @@
                 "open_issues": 38,
                 "owner": "Rubics-Xuan",
                 "repo": "TransBTS",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "medical-image-segmentation",
                   "pytorch",
@@ -2117,7 +2117,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8362,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2679,
+                "stars": 2680,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:01:04.824Z",
+    "last_updated": "2026-11-22T20:16:43.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
