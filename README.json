@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7447,
+                "stars": 7449,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5633,
+                "stars": 5636,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3718,
+                "stars": 3721,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2863,
+                "stars": 2865,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -244,7 +244,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1816,
+                "stars": 1818,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -305,7 +305,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -512,7 +512,7 @@
                 "open_issues": 23,
                 "owner": "PeizeSun",
                 "repo": "TransTrack",
-                "stars": 671,
+                "stars": 672,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2680,
+                "stars": 2681,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2687,7 +2687,7 @@
                 "open_issues": 11,
                 "owner": "cheerss",
                 "repo": "CrossFormer",
-                "stars": 404,
+                "stars": 403,
                 "topics": [
                   "classification",
                   "deep-learning",
@@ -2829,7 +2829,7 @@
                 "open_issues": 47,
                 "owner": "jayleicn",
                 "repo": "moment_detr",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "pytorch",
                   "video-retrieval"
@@ -2946,7 +2946,7 @@
                 "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3731,7 +3731,7 @@
                 "open_issues": 15,
                 "owner": "dorarad",
                 "repo": "gansformer",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "attention",
                   "compositionality",
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12779,
+                "stars": 12781,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4099,7 +4099,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15344,
+                "stars": 15346,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:16:43.879Z",
+    "last_updated": "2026-11-24T00:43:26.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
