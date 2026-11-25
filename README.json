@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5635,
+                "stars": 5636,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "NVlabs",
                 "repo": "SegFormer",
-                "stars": 3721,
+                "stars": 3722,
                 "topics": [
                   "ade20k",
                   "cityscapes",
@@ -177,7 +177,7 @@
                 "open_issues": 154,
                 "owner": "IDEA-Research",
                 "repo": "DINO",
-                "stars": 2866,
+                "stars": 2867,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -346,8 +346,8 @@
                 "id": 654209013,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T11:07:10Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-25T12:42:30Z",
+                "open_issues": 4,
                 "owner": "drprojects",
                 "repo": "superpoint_transformer",
                 "stars": 1071,
@@ -2087,7 +2087,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16080,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2138,7 +2138,7 @@
                 "open_issues": 56,
                 "owner": "swz30",
                 "repo": "Restormer",
-                "stars": 2681,
+                "stars": 2683,
                 "topics": [
                   "cvpr2022",
                   "defocus-deblurring",
@@ -2916,7 +2916,7 @@
                 "open_issues": 202,
                 "owner": "microsoft",
                 "repo": "Swin-Transformer",
-                "stars": 16080,
+                "stars": 16082,
                 "topics": [
                   "ade20k",
                   "image-classification",
@@ -2946,7 +2946,7 @@
                 "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1907,
+                "stars": 1908,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3057,7 +3057,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1070,
+                "stars": 1072,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3620,7 +3620,7 @@
                 "open_issues": 16,
                 "owner": "hila-chefer",
                 "repo": "Transformer-Explainability",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": [
                   "attention-matrix",
                   "attention-visualization",
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12782,
+                "stars": 12783,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4099,7 +4099,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15349,
+                "stars": 15350,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:58:32.661Z",
+    "last_updated": "2026-11-25T22:23:24.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
