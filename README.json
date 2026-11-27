@@ -42,7 +42,7 @@
                 "open_issues": 81,
                 "owner": "JingyunLiang",
                 "repo": "SwinIR",
-                "stars": 5636,
+                "stars": 5637,
                 "topics": [
                   "compression-artifact-reduction",
                   "deblocking",
@@ -80,7 +80,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4346,
+                "stars": 4345,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -101,7 +101,7 @@
                 "open_issues": 314,
                 "owner": "google-research",
                 "repo": "scenic",
-                "stars": 3848,
+                "stars": 3849,
                 "topics": [
                   "attention",
                   "computer-vision",
@@ -202,7 +202,7 @@
                 "open_issues": 94,
                 "owner": "HuCaoFighting",
                 "repo": "Swin-Unet",
-                "stars": 2424,
+                "stars": 2423,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -329,7 +329,7 @@
                 "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "MaskFormer",
-                "stars": 1458,
+                "stars": 1457,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -2057,7 +2057,7 @@
                 "open_issues": 1,
                 "owner": "Little-Podi",
                 "repo": "AiATrack",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "attention-mechanism",
                   "eccv2022",
@@ -2750,7 +2750,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3078,7 +3078,7 @@
                 "open_issues": 21,
                 "owner": "rstrudel",
                 "repo": "segmenter",
-                "stars": 907,
+                "stars": 906,
                 "topics": [
                   "segmentation",
                   "transformer"
@@ -3102,7 +3102,7 @@
                 "open_issues": 85,
                 "owner": "yuxumin",
                 "repo": "PoinTr",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "3dvision",
                   "computer-vision",
@@ -3760,7 +3760,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12785,
+                "stars": 12786,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 177,
                 "owner": "fundamentalvision",
                 "repo": "Deformable-DETR",
-                "stars": 4030,
+                "stars": 4032,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.163Z"
@@ -4161,7 +4161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:13:50.558Z",
+    "last_updated": "2026-11-27T21:54:03.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
